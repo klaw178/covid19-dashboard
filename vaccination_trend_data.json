@@ -1,0 +1,1939 @@
+{
+    "data": [
+        {
+            "date": "2021-11-28",
+            "first_dose": 15301,
+            "second_dose": 22482,
+            "booster_dose": 223189
+        },
+        {
+            "date": "2021-11-27",
+            "first_dose": 21362,
+            "second_dose": 30616,
+            "booster_dose": 419657
+        },
+        {
+            "date": "2021-11-26",
+            "first_dose": 19098,
+            "second_dose": 21923,
+            "booster_dose": 320981
+        },
+        {
+            "date": "2021-11-25",
+            "first_dose": 20677,
+            "second_dose": 19615,
+            "booster_dose": 334749
+        },
+        {
+            "date": "2021-11-24",
+            "first_dose": 21775,
+            "second_dose": 20048,
+            "booster_dose": 315306
+        },
+        {
+            "date": "2021-11-23",
+            "first_dose": 23445,
+            "second_dose": 18562,
+            "booster_dose": 301034
+        },
+        {
+            "date": "2021-11-22",
+            "first_dose": 20665,
+            "second_dose": 15567,
+            "booster_dose": 249999
+        },
+        {
+            "date": "2021-11-21",
+            "first_dose": 14066,
+            "second_dose": 11240,
+            "booster_dose": 189138
+        },
+        {
+            "date": "2021-11-20",
+            "first_dose": 23350,
+            "second_dose": 21592,
+            "booster_dose": 412685
+        },
+        {
+            "date": "2021-11-19",
+            "first_dose": 24413,
+            "second_dose": 18723,
+            "booster_dose": 305470
+        },
+        {
+            "date": "2021-11-18",
+            "first_dose": 24034,
+            "second_dose": 17429,
+            "booster_dose": 318203
+        },
+        {
+            "date": "2021-11-17",
+            "first_dose": 28332,
+            "second_dose": 18511,
+            "booster_dose": 314138
+        },
+        {
+            "date": "2021-11-16",
+            "first_dose": 27258,
+            "second_dose": 16897,
+            "booster_dose": 282808
+        },
+        {
+            "date": "2021-11-15",
+            "first_dose": 27672,
+            "second_dose": 15525,
+            "booster_dose": 232248
+        },
+        {
+            "date": "2021-11-14",
+            "first_dose": 18296,
+            "second_dose": 11959,
+            "booster_dose": 176724
+        },
+        {
+            "date": "2021-11-13",
+            "first_dose": 30618,
+            "second_dose": 22806,
+            "booster_dose": 411430
+        },
+        {
+            "date": "2021-11-12",
+            "first_dose": 31649,
+            "second_dose": 19229,
+            "booster_dose": 299597
+        },
+        {
+            "date": "2021-11-11",
+            "first_dose": 34640,
+            "second_dose": 19560,
+            "booster_dose": 305139
+        },
+        {
+            "date": "2021-11-10",
+            "first_dose": 115551,
+            "second_dose": 43996,
+            "booster_dose": 465913
+        },
+        {
+            "date": "2021-11-09",
+            "first_dose": 36321,
+            "second_dose": 18208,
+            "booster_dose": 278763
+        },
+        {
+            "date": "2021-11-08",
+            "first_dose": 30386,
+            "second_dose": 17398,
+            "booster_dose": 222489
+        },
+        {
+            "date": "2021-11-07",
+            "first_dose": 22430,
+            "second_dose": 11202,
+            "booster_dose": 166959
+        },
+        {
+            "date": "2021-11-06",
+            "first_dose": 33721,
+            "second_dose": 22869,
+            "booster_dose": 371339
+        },
+        {
+            "date": "2021-11-05",
+            "first_dose": 40573,
+            "second_dose": 19037,
+            "booster_dose": 266470
+        },
+        {
+            "date": "2021-11-04",
+            "first_dose": 40075,
+            "second_dose": 17167,
+            "booster_dose": 274443
+        },
+        {
+            "date": "2021-11-03",
+            "first_dose": 42413,
+            "second_dose": 17374,
+            "booster_dose": 267772
+        },
+        {
+            "date": "2021-11-02",
+            "first_dose": 43508,
+            "second_dose": 17807,
+            "booster_dose": 246266
+        },
+        {
+            "date": "2021-11-01",
+            "first_dose": 34642,
+            "second_dose": 15751,
+            "booster_dose": 196712
+        },
+        {
+            "date": "2021-10-31",
+            "first_dose": 22954,
+            "second_dose": 11464,
+            "booster_dose": 131261
+        },
+        {
+            "date": "2021-10-30",
+            "first_dose": 31157,
+            "second_dose": 22479,
+            "booster_dose": 330445
+        },
+        {
+            "date": "2021-10-29",
+            "first_dose": 36561,
+            "second_dose": 19175,
+            "booster_dose": 238142
+        },
+        {
+            "date": "2021-10-28",
+            "first_dose": 39397,
+            "second_dose": 19586,
+            "booster_dose": 247995
+        },
+        {
+            "date": "2021-10-27",
+            "first_dose": 39964,
+            "second_dose": 18740,
+            "booster_dose": 236580
+        },
+        {
+            "date": "2021-10-26",
+            "first_dose": 35780,
+            "second_dose": 19499,
+            "booster_dose": 217396
+        },
+        {
+            "date": "2021-10-25",
+            "first_dose": 32032,
+            "second_dose": 18251,
+            "booster_dose": 188412
+        },
+        {
+            "date": "2021-10-24",
+            "first_dose": 19607,
+            "second_dose": 14138,
+            "booster_dose": 138088
+        },
+        {
+            "date": "2021-10-23",
+            "first_dose": 32220,
+            "second_dose": 27527,
+            "booster_dose": 325140
+        },
+        {
+            "date": "2021-10-22",
+            "first_dose": 41732,
+            "second_dose": 22423,
+            "booster_dose": 248183
+        },
+        {
+            "date": "2021-10-21",
+            "first_dose": 44558,
+            "second_dose": 22027,
+            "booster_dose": 255406
+        },
+        {
+            "date": "2021-10-20",
+            "first_dose": 44521,
+            "second_dose": 21701,
+            "booster_dose": 223816
+        },
+        {
+            "date": "2021-10-19",
+            "first_dose": 38533,
+            "second_dose": 21141,
+            "booster_dose": 199008
+        },
+        {
+            "date": "2021-10-18",
+            "first_dose": 35334,
+            "second_dose": 20668,
+            "booster_dose": 150296
+        },
+        {
+            "date": "2021-10-17",
+            "first_dose": 9839,
+            "second_dose": 14545,
+            "booster_dose": 99308
+        },
+        {
+            "date": "2021-10-16",
+            "first_dose": 19735,
+            "second_dose": 30440,
+            "booster_dose": 285730
+        },
+        {
+            "date": "2021-10-15",
+            "first_dose": 35884,
+            "second_dose": 25380,
+            "booster_dose": 198085
+        },
+        {
+            "date": "2021-10-14",
+            "first_dose": 38185,
+            "second_dose": 23489,
+            "booster_dose": 214287
+        },
+        {
+            "date": "2021-10-13",
+            "first_dose": 32315,
+            "second_dose": 24828,
+            "booster_dose": 190698
+        },
+        {
+            "date": "2021-10-12",
+            "first_dose": 30636,
+            "second_dose": 22447,
+            "booster_dose": 160010
+        },
+        {
+            "date": "2021-10-11",
+            "first_dose": 23232,
+            "second_dose": 20350,
+            "booster_dose": 121718
+        },
+        {
+            "date": "2021-10-10",
+            "first_dose": 9111,
+            "second_dose": 15643,
+            "booster_dose": 91878
+        },
+        {
+            "date": "2021-10-09",
+            "first_dose": 18438,
+            "second_dose": 29751,
+            "booster_dose": 250078
+        },
+        {
+            "date": "2021-10-08",
+            "first_dose": 25536,
+            "second_dose": 25006,
+            "booster_dose": 172645
+        },
+        {
+            "date": "2021-10-07",
+            "first_dose": 25319,
+            "second_dose": 24208,
+            "booster_dose": 176054
+        },
+        {
+            "date": "2021-10-06",
+            "first_dose": 24519,
+            "second_dose": 24135,
+            "booster_dose": 160387
+        },
+        {
+            "date": "2021-10-05",
+            "first_dose": 35193,
+            "second_dose": 24253,
+            "booster_dose": 154143
+        },
+        {
+            "date": "2021-10-04",
+            "first_dose": 30784,
+            "second_dose": 24746,
+            "booster_dose": 122358
+        },
+        {
+            "date": "2021-10-03",
+            "first_dose": 10720,
+            "second_dose": 17502,
+            "booster_dose": 88233
+        },
+        {
+            "date": "2021-10-02",
+            "first_dose": 18736,
+            "second_dose": 30849,
+            "booster_dose": 193759
+        },
+        {
+            "date": "2021-10-01",
+            "first_dose": 31978,
+            "second_dose": 29993,
+            "booster_dose": 153160
+        },
+        {
+            "date": "2021-09-30",
+            "first_dose": 28689,
+            "second_dose": 30318,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-29",
+            "first_dose": 27445,
+            "second_dose": 29907,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-28",
+            "first_dose": 28566,
+            "second_dose": 29670,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-27",
+            "first_dose": 20704,
+            "second_dose": 28590,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-26",
+            "first_dose": 8814,
+            "second_dose": 21476,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-25",
+            "first_dose": 17607,
+            "second_dose": 43049,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-24",
+            "first_dose": 21866,
+            "second_dose": 39567,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-23",
+            "first_dose": 21588,
+            "second_dose": 41728,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-22",
+            "first_dose": 18462,
+            "second_dose": 39676,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-21",
+            "first_dose": 16924,
+            "second_dose": 39248,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-20",
+            "first_dose": 15669,
+            "second_dose": 41438,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-19",
+            "first_dose": 10344,
+            "second_dose": 30458,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-18",
+            "first_dose": 21628,
+            "second_dose": 66134,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-17",
+            "first_dose": 17351,
+            "second_dose": 55257,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-16",
+            "first_dose": 18974,
+            "second_dose": 58941,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-15",
+            "first_dose": 20120,
+            "second_dose": 57096,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-14",
+            "first_dose": 17708,
+            "second_dose": 56521,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-13",
+            "first_dose": 15511,
+            "second_dose": 54807,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-12",
+            "first_dose": 11724,
+            "second_dose": 42902,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-11",
+            "first_dose": 23925,
+            "second_dose": 86068,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-10",
+            "first_dose": 21879,
+            "second_dose": 78763,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-09",
+            "first_dose": 22006,
+            "second_dose": 86592,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-08",
+            "first_dose": 20409,
+            "second_dose": 75548,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-07",
+            "first_dose": 22866,
+            "second_dose": 73004,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-06",
+            "first_dose": 18277,
+            "second_dose": 69758,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-05",
+            "first_dose": 15892,
+            "second_dose": 59265,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-04",
+            "first_dose": 33987,
+            "second_dose": 116327,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-03",
+            "first_dose": 29614,
+            "second_dose": 98122,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-02",
+            "first_dose": 33775,
+            "second_dose": 103997,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-09-01",
+            "first_dose": 37829,
+            "second_dose": 102086,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-31",
+            "first_dose": 34618,
+            "second_dose": 105003,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-30",
+            "first_dose": 15530,
+            "second_dose": 52137,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-29",
+            "first_dose": 20547,
+            "second_dose": 64710,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-28",
+            "first_dose": 37991,
+            "second_dose": 116583,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-27",
+            "first_dose": 38392,
+            "second_dose": 115249,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-26",
+            "first_dose": 46165,
+            "second_dose": 127267,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-25",
+            "first_dose": 57563,
+            "second_dose": 142307,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-24",
+            "first_dose": 45945,
+            "second_dose": 109221,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-23",
+            "first_dose": 37974,
+            "second_dose": 113005,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-22",
+            "first_dose": 32424,
+            "second_dose": 96246,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-21",
+            "first_dose": 61187,
+            "second_dose": 174038,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-20",
+            "first_dose": 51538,
+            "second_dose": 145473,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-19",
+            "first_dose": 47632,
+            "second_dose": 153886,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-18",
+            "first_dose": 39721,
+            "second_dose": 147569,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-17",
+            "first_dose": 33478,
+            "second_dose": 120908,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-16",
+            "first_dose": 28992,
+            "second_dose": 117998,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-15",
+            "first_dose": 24829,
+            "second_dose": 101881,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-14",
+            "first_dose": 39423,
+            "second_dose": 173718,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-13",
+            "first_dose": 32476,
+            "second_dose": 143690,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-12",
+            "first_dose": 35082,
+            "second_dose": 165425,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-11",
+            "first_dose": 33164,
+            "second_dose": 145954,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-10",
+            "first_dose": 28314,
+            "second_dose": 123721,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-09",
+            "first_dose": 20933,
+            "second_dose": 112286,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-08",
+            "first_dose": 18607,
+            "second_dose": 94332,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-07",
+            "first_dose": 33159,
+            "second_dose": 184869,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-06",
+            "first_dose": 27032,
+            "second_dose": 137172,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-05",
+            "first_dose": 30986,
+            "second_dose": 143423,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-04",
+            "first_dose": 28780,
+            "second_dose": 131581,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-03",
+            "first_dose": 24874,
+            "second_dose": 108604,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-02",
+            "first_dose": 22454,
+            "second_dose": 94425,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-08-01",
+            "first_dose": 18545,
+            "second_dose": 92416,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-31",
+            "first_dose": 32892,
+            "second_dose": 182825,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-30",
+            "first_dose": 30683,
+            "second_dose": 142715,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-29",
+            "first_dose": 35751,
+            "second_dose": 145472,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-28",
+            "first_dose": 32492,
+            "second_dose": 131048,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-27",
+            "first_dose": 29182,
+            "second_dose": 118328,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-26",
+            "first_dose": 25220,
+            "second_dose": 115924,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-25",
+            "first_dose": 20382,
+            "second_dose": 94435,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-24",
+            "first_dose": 38958,
+            "second_dose": 177885,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-23",
+            "first_dose": 37888,
+            "second_dose": 154761,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-22",
+            "first_dose": 39457,
+            "second_dose": 156245,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-21",
+            "first_dose": 38826,
+            "second_dose": 146281,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-20",
+            "first_dose": 33657,
+            "second_dose": 126163,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-19",
+            "first_dose": 31469,
+            "second_dose": 112544,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-18",
+            "first_dose": 27654,
+            "second_dose": 105472,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-17",
+            "first_dose": 59268,
+            "second_dose": 196422,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-16",
+            "first_dose": 50247,
+            "second_dose": 163936,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-15",
+            "first_dose": 52493,
+            "second_dose": 167152,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-14",
+            "first_dose": 50005,
+            "second_dose": 151335,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-13",
+            "first_dose": 49756,
+            "second_dose": 124905,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-12",
+            "first_dose": 45184,
+            "second_dose": 99817,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-11",
+            "first_dose": 33937,
+            "second_dose": 80755,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-10",
+            "first_dose": 82150,
+            "second_dose": 174745,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-09",
+            "first_dose": 77955,
+            "second_dose": 143603,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-08",
+            "first_dose": 82807,
+            "second_dose": 135457,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-07",
+            "first_dose": 72814,
+            "second_dose": 128226,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-06",
+            "first_dose": 71524,
+            "second_dose": 109148,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-05",
+            "first_dose": 63859,
+            "second_dose": 107977,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-04",
+            "first_dose": 62672,
+            "second_dose": 85748,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-03",
+            "first_dose": 121588,
+            "second_dose": 165665,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-02",
+            "first_dose": 107959,
+            "second_dose": 142275,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-07-01",
+            "first_dose": 133675,
+            "second_dose": 154177,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-30",
+            "first_dose": 120497,
+            "second_dose": 138993,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-29",
+            "first_dose": 115376,
+            "second_dose": 115484,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-28",
+            "first_dose": 106496,
+            "second_dose": 107318,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-27",
+            "first_dose": 118366,
+            "second_dose": 97993,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-26",
+            "first_dose": 212685,
+            "second_dose": 172324,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-25",
+            "first_dose": 177515,
+            "second_dose": 133375,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-24",
+            "first_dose": 202390,
+            "second_dose": 136679,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-23",
+            "first_dose": 187513,
+            "second_dose": 128688,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-22",
+            "first_dose": 275647,
+            "second_dose": 210730,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-21",
+            "first_dose": 0,
+            "second_dose": 0,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-20",
+            "first_dose": 142223,
+            "second_dose": 78594,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-19",
+            "first_dose": 255393,
+            "second_dose": 195646,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-18",
+            "first_dose": 196246,
+            "second_dose": 162030,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-17",
+            "first_dose": 217157,
+            "second_dose": 176158,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-16",
+            "first_dose": 170367,
+            "second_dose": 180627,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-15",
+            "first_dose": 154647,
+            "second_dose": 175703,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-14",
+            "first_dose": 114606,
+            "second_dose": 174262,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-13",
+            "first_dose": 123866,
+            "second_dose": 153449,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-12",
+            "first_dose": 228144,
+            "second_dose": 276813,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-11",
+            "first_dose": 177139,
+            "second_dose": 251641,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-10",
+            "first_dose": 173443,
+            "second_dose": 248650,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-09",
+            "first_dose": 149733,
+            "second_dose": 253913,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-08",
+            "first_dose": 109068,
+            "second_dose": 252697,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-07",
+            "first_dose": 89639,
+            "second_dose": 244107,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-06",
+            "first_dose": 99621,
+            "second_dose": 217491,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-05",
+            "first_dose": 175001,
+            "second_dose": 415644,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-04",
+            "first_dose": 150337,
+            "second_dose": 321602,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-03",
+            "first_dose": 157335,
+            "second_dose": 313526,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-02",
+            "first_dose": 132668,
+            "second_dose": 288963,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-06-01",
+            "first_dose": 75701,
+            "second_dose": 279285,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-31",
+            "first_dose": 70948,
+            "second_dose": 154674,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-30",
+            "first_dose": 99213,
+            "second_dose": 179424,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-29",
+            "first_dose": 155467,
+            "second_dose": 381816,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-28",
+            "first_dose": 174622,
+            "second_dose": 380855,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-27",
+            "first_dose": 223510,
+            "second_dose": 374042,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-26",
+            "first_dose": 206311,
+            "second_dose": 368554,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-25",
+            "first_dose": 157084,
+            "second_dose": 327467,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-24",
+            "first_dose": 95484,
+            "second_dose": 279672,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-23",
+            "first_dose": 101708,
+            "second_dose": 220062,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-22",
+            "first_dose": 178251,
+            "second_dose": 508013,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-21",
+            "first_dose": 192008,
+            "second_dose": 371460,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-20",
+            "first_dose": 234818,
+            "second_dose": 367142,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-19",
+            "first_dose": 235979,
+            "second_dose": 309020,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-18",
+            "first_dose": 154621,
+            "second_dose": 269283,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-17",
+            "first_dose": 85946,
+            "second_dose": 210442,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-16",
+            "first_dose": 105520,
+            "second_dose": 157687,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-15",
+            "first_dose": 205962,
+            "second_dose": 353764,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-14",
+            "first_dose": 185059,
+            "second_dose": 346425,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-13",
+            "first_dose": 173820,
+            "second_dose": 378650,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-12",
+            "first_dose": 146934,
+            "second_dose": 402524,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-11",
+            "first_dose": 98515,
+            "second_dose": 308915,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-10",
+            "first_dose": 76110,
+            "second_dose": 192723,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-09",
+            "first_dose": 73338,
+            "second_dose": 160313,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-08",
+            "first_dose": 137003,
+            "second_dose": 404510,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-07",
+            "first_dose": 107518,
+            "second_dose": 414731,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-06",
+            "first_dose": 101594,
+            "second_dose": 419232,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-05",
+            "first_dose": 107791,
+            "second_dose": 348553,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-04",
+            "first_dose": 99261,
+            "second_dose": 211639,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-03",
+            "first_dose": 59113,
+            "second_dose": 99785,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-02",
+            "first_dose": 70777,
+            "second_dose": 137400,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-05-01",
+            "first_dose": 123619,
+            "second_dose": 329170,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-30",
+            "first_dose": 115366,
+            "second_dose": 361758,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-29",
+            "first_dose": 110976,
+            "second_dose": 395043,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-28",
+            "first_dose": 103352,
+            "second_dose": 394152,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-27",
+            "first_dose": 85067,
+            "second_dose": 313616,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-26",
+            "first_dose": 67483,
+            "second_dose": 249768,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-25",
+            "first_dose": 61586,
+            "second_dose": 227159,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-24",
+            "first_dose": 124858,
+            "second_dose": 478008,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-23",
+            "first_dose": 107656,
+            "second_dose": 394144,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-22",
+            "first_dose": 103988,
+            "second_dose": 345675,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-21",
+            "first_dose": 92703,
+            "second_dose": 339773,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-20",
+            "first_dose": 84871,
+            "second_dose": 272929,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-19",
+            "first_dose": 85055,
+            "second_dose": 215665,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-18",
+            "first_dose": 69198,
+            "second_dose": 195871,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-17",
+            "first_dose": 112095,
+            "second_dose": 458880,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-16",
+            "first_dose": 102280,
+            "second_dose": 446025,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-15",
+            "first_dose": 93587,
+            "second_dose": 363002,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-14",
+            "first_dose": 79117,
+            "second_dose": 292383,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-13",
+            "first_dose": 39361,
+            "second_dose": 257732,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-12",
+            "first_dose": 25351,
+            "second_dose": 166273,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-11",
+            "first_dose": 36599,
+            "second_dose": 160454,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-10",
+            "first_dose": 74055,
+            "second_dose": 437442,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-09",
+            "first_dose": 62274,
+            "second_dose": 404206,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-08",
+            "first_dose": 55539,
+            "second_dose": 403212,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-07",
+            "first_dose": 58962,
+            "second_dose": 372241,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-06",
+            "first_dose": 54296,
+            "second_dose": 162466,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-05",
+            "first_dose": 19826,
+            "second_dose": 54060,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-04",
+            "first_dose": 26617,
+            "second_dose": 39491,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-03",
+            "first_dose": 74512,
+            "second_dose": 157903,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-02",
+            "first_dose": 68281,
+            "second_dose": 215754,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-04-01",
+            "first_dose": 122410,
+            "second_dose": 411998,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-31",
+            "first_dose": 188045,
+            "second_dose": 341748,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-30",
+            "first_dose": 176063,
+            "second_dose": 233828,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-29",
+            "first_dose": 186329,
+            "second_dose": 137405,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-28",
+            "first_dose": 252376,
+            "second_dose": 127078,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-27",
+            "first_dose": 367393,
+            "second_dose": 201335,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-26",
+            "first_dose": 344008,
+            "second_dose": 250962,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-25",
+            "first_dose": 258050,
+            "second_dose": 198206,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-24",
+            "first_dose": 275881,
+            "second_dose": 208013,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-23",
+            "first_dose": 268651,
+            "second_dose": 134547,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-22",
+            "first_dose": 282561,
+            "second_dose": 64436,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-21",
+            "first_dose": 295359,
+            "second_dose": 30418,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-20",
+            "first_dose": 686424,
+            "second_dose": 70449,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-19",
+            "first_dose": 535489,
+            "second_dose": 100730,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-18",
+            "first_dose": 451465,
+            "second_dose": 104609,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-17",
+            "first_dose": 392769,
+            "second_dose": 90906,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-16",
+            "first_dose": 370842,
+            "second_dose": 62909,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-15",
+            "first_dose": 330676,
+            "second_dose": 32082,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-14",
+            "first_dose": 223017,
+            "second_dose": 14378,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-13",
+            "first_dose": 457632,
+            "second_dose": 38640,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-12",
+            "first_dose": 312716,
+            "second_dose": 67514,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-11",
+            "first_dose": 211393,
+            "second_dose": 69680,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-10",
+            "first_dose": 206720,
+            "second_dose": 70960,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-09",
+            "first_dose": 181127,
+            "second_dose": 47151,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-08",
+            "first_dose": 183736,
+            "second_dose": 23800,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-07",
+            "first_dose": 140108,
+            "second_dose": 9133,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-06",
+            "first_dose": 383618,
+            "second_dose": 21688,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-05",
+            "first_dose": 385681,
+            "second_dose": 37235,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-04",
+            "first_dose": 320388,
+            "second_dose": 45045,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-03",
+            "first_dose": 231002,
+            "second_dose": 44001,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-02",
+            "first_dose": 181316,
+            "second_dose": 27652,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-03-01",
+            "first_dose": 160580,
+            "second_dose": 12632,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-02-28",
+            "first_dose": 161559,
+            "second_dose": 9388,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-02-27",
+            "first_dose": 371364,
+            "second_dose": 15584,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-02-26",
+            "first_dose": 452777,
+            "second_dose": 16226,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-02-25",
+            "first_dose": 432112,
+            "second_dose": 16168,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-02-24",
+            "first_dose": 396937,
+            "second_dose": 14209,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-02-23",
+            "first_dose": 284897,
+            "second_dose": 9581,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-02-22",
+            "first_dose": 155084,
+            "second_dose": 5344,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-02-21",
+            "first_dose": 113987,
+            "second_dose": 2346,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-02-20",
+            "first_dose": 306109,
+            "second_dose": 2432,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-02-19",
+            "first_dose": 323802,
+            "second_dose": 3895,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-02-18",
+            "first_dose": 396262,
+            "second_dose": 4561,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-02-17",
+            "first_dose": 422576,
+            "second_dose": 4497,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-02-16",
+            "first_dose": 312669,
+            "second_dose": 3128,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-02-15",
+            "first_dose": 219760,
+            "second_dose": 1854,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-02-14",
+            "first_dose": 187246,
+            "second_dose": 837,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-02-13",
+            "first_dose": 429497,
+            "second_dose": 2186,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-02-12",
+            "first_dose": 436925,
+            "second_dose": 3733,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-02-11",
+            "first_dose": 386734,
+            "second_dose": 4646,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-02-10",
+            "first_dose": 338855,
+            "second_dose": 4092,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-02-09",
+            "first_dose": 311654,
+            "second_dose": 2173,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-02-08",
+            "first_dose": 252269,
+            "second_dose": 1419,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-02-07",
+            "first_dose": 229514,
+            "second_dose": 312,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-02-06",
+            "first_dose": 458318,
+            "second_dose": 601,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-02-05",
+            "first_dose": 401636,
+            "second_dose": 1941,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-02-04",
+            "first_dose": 388426,
+            "second_dose": 2611,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-02-03",
+            "first_dose": 378794,
+            "second_dose": 2282,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-02-02",
+            "first_dose": 300173,
+            "second_dose": 1386,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-02-01",
+            "first_dose": 280513,
+            "second_dose": 1596,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-01-31",
+            "first_dose": 289359,
+            "second_dose": 2757,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-01-30",
+            "first_dose": 539691,
+            "second_dose": 10252,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-01-29",
+            "first_dose": 436360,
+            "second_dose": 1526,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-01-28",
+            "first_dose": 343193,
+            "second_dose": 1271,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-01-27",
+            "first_dose": 251902,
+            "second_dose": 1090,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-01-26",
+            "first_dose": 259306,
+            "second_dose": 1001,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-01-25",
+            "first_dose": 234851,
+            "second_dose": 1326,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-01-24",
+            "first_dose": 198592,
+            "second_dose": 610,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-01-23",
+            "first_dose": 443330,
+            "second_dose": 774,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-01-22",
+            "first_dose": 424478,
+            "second_dose": 1118,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-01-21",
+            "first_dose": 357563,
+            "second_dose": 2334,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-01-20",
+            "first_dose": 318151,
+            "second_dose": 2723,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-01-19",
+            "first_dose": 298373,
+            "second_dose": 2989,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-01-18",
+            "first_dose": 167150,
+            "second_dose": 3750,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-01-17",
+            "first_dose": 154564,
+            "second_dose": 1284,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-01-16",
+            "first_dose": 275434,
+            "second_dose": 1775,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-01-15",
+            "first_dose": 320894,
+            "second_dose": 3817,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-01-14",
+            "first_dose": 274793,
+            "second_dose": 4854,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-01-13",
+            "first_dose": 239815,
+            "second_dose": 8362,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-01-12",
+            "first_dose": 174276,
+            "second_dose": 13369,
+            "booster_dose": null
+        },
+        {
+            "date": "2021-01-11",
+            "first_dose": 121129,
+            "second_dose": 19312,
+            "booster_dose": null
+        }
+    ],
+    "lastUpdate": "2021-11-29T16:00:12.000000Z",
+    "length": 322,
+    "totalPages": 1
+}

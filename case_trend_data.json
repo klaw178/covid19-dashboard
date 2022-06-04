@@ -1,0 +1,4021 @@
+{
+    "data": [
+        {
+            "date": "2021-11-29",
+            "daily_cases": 34906,
+            "daily_admissions": null,
+            "daily_deaths": 21
+        },
+        {
+            "date": "2021-11-28",
+            "daily_cases": 32136,
+            "daily_admissions": null,
+            "daily_deaths": 40
+        },
+        {
+            "date": "2021-11-27",
+            "daily_cases": 35798,
+            "daily_admissions": 609,
+            "daily_deaths": 112
+        },
+        {
+            "date": "2021-11-26",
+            "daily_cases": 42272,
+            "daily_admissions": 620,
+            "daily_deaths": 125
+        },
+        {
+            "date": "2021-11-25",
+            "daily_cases": 40382,
+            "daily_admissions": 650,
+            "daily_deaths": 113
+        },
+        {
+            "date": "2021-11-24",
+            "daily_cases": 36511,
+            "daily_admissions": 752,
+            "daily_deaths": 129
+        },
+        {
+            "date": "2021-11-23",
+            "daily_cases": 36550,
+            "daily_admissions": 659,
+            "daily_deaths": 140
+        },
+        {
+            "date": "2021-11-22",
+            "daily_cases": 36478,
+            "daily_admissions": 602,
+            "daily_deaths": 34
+        },
+        {
+            "date": "2021-11-21",
+            "daily_cases": 33513,
+            "daily_admissions": 648,
+            "daily_deaths": 47
+        },
+        {
+            "date": "2021-11-20",
+            "daily_cases": 36339,
+            "daily_admissions": 611,
+            "daily_deaths": 133
+        },
+        {
+            "date": "2021-11-19",
+            "daily_cases": 37006,
+            "daily_admissions": 637,
+            "daily_deaths": 123
+        },
+        {
+            "date": "2021-11-18",
+            "daily_cases": 39315,
+            "daily_admissions": 697,
+            "daily_deaths": 144
+        },
+        {
+            "date": "2021-11-17",
+            "daily_cases": 30638,
+            "daily_admissions": 727,
+            "daily_deaths": 159
+        },
+        {
+            "date": "2021-11-16",
+            "daily_cases": 30853,
+            "daily_admissions": 713,
+            "daily_deaths": 190
+        },
+        {
+            "date": "2021-11-15",
+            "daily_cases": 31440,
+            "daily_admissions": 695,
+            "daily_deaths": 29
+        },
+        {
+            "date": "2021-11-14",
+            "daily_cases": 29404,
+            "daily_admissions": 678,
+            "daily_deaths": 51
+        },
+        {
+            "date": "2021-11-13",
+            "daily_cases": 33493,
+            "daily_admissions": 655,
+            "daily_deaths": 141
+        },
+        {
+            "date": "2021-11-12",
+            "daily_cases": 33155,
+            "daily_admissions": 729,
+            "daily_deaths": 122
+        },
+        {
+            "date": "2021-11-11",
+            "daily_cases": 35472,
+            "daily_admissions": 797,
+            "daily_deaths": 151
+        },
+        {
+            "date": "2021-11-10",
+            "daily_cases": 31541,
+            "daily_admissions": 821,
+            "daily_deaths": 170
+        },
+        {
+            "date": "2021-11-09",
+            "daily_cases": 27872,
+            "daily_admissions": 808,
+            "daily_deaths": 230
+        },
+        {
+            "date": "2021-11-08",
+            "daily_cases": 24979,
+            "daily_admissions": 850,
+            "daily_deaths": 32
+        },
+        {
+            "date": "2021-11-07",
+            "daily_cases": 23779,
+            "daily_admissions": 739,
+            "daily_deaths": 47
+        },
+        {
+            "date": "2021-11-06",
+            "daily_cases": 26250,
+            "daily_admissions": 688,
+            "daily_deaths": 125
+        },
+        {
+            "date": "2021-11-05",
+            "daily_cases": 28490,
+            "daily_admissions": 686,
+            "daily_deaths": 151
+        },
+        {
+            "date": "2021-11-04",
+            "daily_cases": 30166,
+            "daily_admissions": 717,
+            "daily_deaths": 152
+        },
+        {
+            "date": "2021-11-03",
+            "daily_cases": 34317,
+            "daily_admissions": 807,
+            "daily_deaths": 181
+        },
+        {
+            "date": "2021-11-02",
+            "daily_cases": 28531,
+            "daily_admissions": 891,
+            "daily_deaths": 255
+        },
+        {
+            "date": "2021-11-01",
+            "daily_cases": 32081,
+            "daily_admissions": 899,
+            "daily_deaths": 13
+        },
+        {
+            "date": "2021-10-31",
+            "daily_cases": 31479,
+            "daily_admissions": 860,
+            "daily_deaths": 59
+        },
+        {
+            "date": "2021-10-30",
+            "daily_cases": 36204,
+            "daily_admissions": 741,
+            "daily_deaths": 138
+        },
+        {
+            "date": "2021-10-29",
+            "daily_cases": 36853,
+            "daily_admissions": 840,
+            "daily_deaths": 148
+        },
+        {
+            "date": "2021-10-28",
+            "daily_cases": 33903,
+            "daily_admissions": 888,
+            "daily_deaths": 124
+        },
+        {
+            "date": "2021-10-27",
+            "daily_cases": 37502,
+            "daily_admissions": 955,
+            "daily_deaths": 169
+        },
+        {
+            "date": "2021-10-26",
+            "daily_cases": 32280,
+            "daily_admissions": 911,
+            "daily_deaths": 208
+        },
+        {
+            "date": "2021-10-25",
+            "daily_cases": 33309,
+            "daily_admissions": 865,
+            "daily_deaths": 34
+        },
+        {
+            "date": "2021-10-24",
+            "daily_cases": 33221,
+            "daily_admissions": 829,
+            "daily_deaths": 34
+        },
+        {
+            "date": "2021-10-23",
+            "daily_cases": 41259,
+            "daily_admissions": 756,
+            "daily_deaths": 125
+        },
+        {
+            "date": "2021-10-22",
+            "daily_cases": 41745,
+            "daily_admissions": 760,
+            "daily_deaths": 143
+        },
+        {
+            "date": "2021-10-21",
+            "daily_cases": 44363,
+            "daily_admissions": 799,
+            "daily_deaths": 66
+        },
+        {
+            "date": "2021-10-20",
+            "daily_cases": 41498,
+            "daily_admissions": 903,
+            "daily_deaths": 134
+        },
+        {
+            "date": "2021-10-19",
+            "daily_cases": 36712,
+            "daily_admissions": 894,
+            "daily_deaths": 189
+        },
+        {
+            "date": "2021-10-18",
+            "daily_cases": 39473,
+            "daily_admissions": 896,
+            "daily_deaths": 22
+        },
+        {
+            "date": "2021-10-17",
+            "daily_cases": 38543,
+            "daily_admissions": 828,
+            "daily_deaths": 41
+        },
+        {
+            "date": "2021-10-16",
+            "daily_cases": 39624,
+            "daily_admissions": 743,
+            "daily_deaths": 123
+        },
+        {
+            "date": "2021-10-15",
+            "daily_cases": 37691,
+            "daily_admissions": 752,
+            "daily_deaths": 94
+        },
+        {
+            "date": "2021-10-14",
+            "daily_cases": 38488,
+            "daily_admissions": 730,
+            "daily_deaths": 110
+        },
+        {
+            "date": "2021-10-13",
+            "daily_cases": 36458,
+            "daily_admissions": 752,
+            "daily_deaths": 101
+        },
+        {
+            "date": "2021-10-12",
+            "daily_cases": 33287,
+            "daily_admissions": 760,
+            "daily_deaths": 147
+        },
+        {
+            "date": "2021-10-11",
+            "daily_cases": 32349,
+            "daily_admissions": 685,
+            "daily_deaths": 15
+        },
+        {
+            "date": "2021-10-10",
+            "daily_cases": 31096,
+            "daily_admissions": 606,
+            "daily_deaths": 34
+        },
+        {
+            "date": "2021-10-09",
+            "daily_cases": 31259,
+            "daily_admissions": 613,
+            "daily_deaths": 111
+        },
+        {
+            "date": "2021-10-08",
+            "daily_cases": 32157,
+            "daily_admissions": 619,
+            "daily_deaths": 109
+        },
+        {
+            "date": "2021-10-07",
+            "daily_cases": 33305,
+            "daily_admissions": 634,
+            "daily_deaths": 71
+        },
+        {
+            "date": "2021-10-06",
+            "daily_cases": 33450,
+            "daily_admissions": 632,
+            "daily_deaths": 99
+        },
+        {
+            "date": "2021-10-05",
+            "daily_cases": 28846,
+            "daily_admissions": 658,
+            "daily_deaths": 140
+        },
+        {
+            "date": "2021-10-04",
+            "daily_cases": 28251,
+            "daily_admissions": 627,
+            "daily_deaths": 13
+        },
+        {
+            "date": "2021-10-03",
+            "daily_cases": 25176,
+            "daily_admissions": 577,
+            "daily_deaths": 30
+        },
+        {
+            "date": "2021-10-02",
+            "daily_cases": 26794,
+            "daily_admissions": 549,
+            "daily_deaths": 103
+        },
+        {
+            "date": "2021-10-01",
+            "daily_cases": 28836,
+            "daily_admissions": 520,
+            "daily_deaths": 80
+        },
+        {
+            "date": "2021-09-30",
+            "daily_cases": 29826,
+            "daily_admissions": 552,
+            "daily_deaths": 87
+        },
+        {
+            "date": "2021-09-29",
+            "daily_cases": 29036,
+            "daily_admissions": 625,
+            "daily_deaths": 111
+        },
+        {
+            "date": "2021-09-28",
+            "daily_cases": 28808,
+            "daily_admissions": 596,
+            "daily_deaths": 141
+        },
+        {
+            "date": "2021-09-27",
+            "daily_cases": 29329,
+            "daily_admissions": 617,
+            "daily_deaths": 23
+        },
+        {
+            "date": "2021-09-26",
+            "daily_cases": 25538,
+            "daily_admissions": 535,
+            "daily_deaths": 37
+        },
+        {
+            "date": "2021-09-25",
+            "daily_cases": 28087,
+            "daily_admissions": 520,
+            "daily_deaths": 104
+        },
+        {
+            "date": "2021-09-24",
+            "daily_cases": 28199,
+            "daily_admissions": 557,
+            "daily_deaths": 120
+        },
+        {
+            "date": "2021-09-23",
+            "daily_cases": 29045,
+            "daily_admissions": 577,
+            "daily_deaths": 131
+        },
+        {
+            "date": "2021-09-22",
+            "daily_cases": 27317,
+            "daily_admissions": 572,
+            "daily_deaths": 121
+        },
+        {
+            "date": "2021-09-21",
+            "daily_cases": 24973,
+            "daily_admissions": 602,
+            "daily_deaths": 174
+        },
+        {
+            "date": "2021-09-20",
+            "daily_cases": 26905,
+            "daily_admissions": 606,
+            "daily_deaths": 27
+        },
+        {
+            "date": "2021-09-19",
+            "daily_cases": 22173,
+            "daily_admissions": 572,
+            "daily_deaths": 34
+        },
+        {
+            "date": "2021-09-18",
+            "daily_cases": 22956,
+            "daily_admissions": 560,
+            "daily_deaths": 131
+        },
+        {
+            "date": "2021-09-17",
+            "daily_cases": 23265,
+            "daily_admissions": 540,
+            "daily_deaths": 130
+        },
+        {
+            "date": "2021-09-16",
+            "daily_cases": 22949,
+            "daily_admissions": 672,
+            "daily_deaths": 123
+        },
+        {
+            "date": "2021-09-15",
+            "daily_cases": 22078,
+            "daily_admissions": 691,
+            "daily_deaths": 151
+        },
+        {
+            "date": "2021-09-14",
+            "daily_cases": 19739,
+            "daily_admissions": 701,
+            "daily_deaths": 152
+        },
+        {
+            "date": "2021-09-13",
+            "daily_cases": 21077,
+            "daily_admissions": 688,
+            "daily_deaths": 32
+        },
+        {
+            "date": "2021-09-12",
+            "daily_cases": 19913,
+            "daily_admissions": 658,
+            "daily_deaths": 42
+        },
+        {
+            "date": "2021-09-11",
+            "daily_cases": 23825,
+            "daily_admissions": 649,
+            "daily_deaths": 143
+        },
+        {
+            "date": "2021-09-10",
+            "daily_cases": 26653,
+            "daily_admissions": 680,
+            "daily_deaths": 114
+        },
+        {
+            "date": "2021-09-09",
+            "daily_cases": 27049,
+            "daily_admissions": 790,
+            "daily_deaths": 138
+        },
+        {
+            "date": "2021-09-08",
+            "daily_cases": 29286,
+            "daily_admissions": 900,
+            "daily_deaths": 158
+        },
+        {
+            "date": "2021-09-07",
+            "daily_cases": 27545,
+            "daily_admissions": 801,
+            "daily_deaths": 183
+        },
+        {
+            "date": "2021-09-06",
+            "daily_cases": 27202,
+            "daily_admissions": 831,
+            "daily_deaths": 28
+        },
+        {
+            "date": "2021-09-05",
+            "daily_cases": 27022,
+            "daily_admissions": 691,
+            "daily_deaths": 58
+        },
+        {
+            "date": "2021-09-04",
+            "daily_cases": 29614,
+            "daily_admissions": 752,
+            "daily_deaths": 102
+        },
+        {
+            "date": "2021-09-03",
+            "daily_cases": 31726,
+            "daily_admissions": 688,
+            "daily_deaths": 96
+        },
+        {
+            "date": "2021-09-02",
+            "daily_cases": 28686,
+            "daily_admissions": 788,
+            "daily_deaths": 144
+        },
+        {
+            "date": "2021-09-01",
+            "daily_cases": 24723,
+            "daily_admissions": 835,
+            "daily_deaths": 184
+        },
+        {
+            "date": "2021-08-31",
+            "daily_cases": 20967,
+            "daily_admissions": 798,
+            "daily_deaths": 36
+        },
+        {
+            "date": "2021-08-30",
+            "daily_cases": 21324,
+            "daily_admissions": 808,
+            "daily_deaths": 42
+        },
+        {
+            "date": "2021-08-29",
+            "daily_cases": 22501,
+            "daily_admissions": 701,
+            "daily_deaths": 49
+        },
+        {
+            "date": "2021-08-28",
+            "daily_cases": 25118,
+            "daily_admissions": 688,
+            "daily_deaths": 119
+        },
+        {
+            "date": "2021-08-27",
+            "daily_cases": 27545,
+            "daily_admissions": 749,
+            "daily_deaths": 86
+        },
+        {
+            "date": "2021-08-26",
+            "daily_cases": 29417,
+            "daily_admissions": 777,
+            "daily_deaths": 121
+        },
+        {
+            "date": "2021-08-25",
+            "daily_cases": 27350,
+            "daily_admissions": 843,
+            "daily_deaths": 135
+        },
+        {
+            "date": "2021-08-24",
+            "daily_cases": 23474,
+            "daily_admissions": 818,
+            "daily_deaths": 152
+        },
+        {
+            "date": "2021-08-23",
+            "daily_cases": 24158,
+            "daily_admissions": 831,
+            "daily_deaths": 29
+        },
+        {
+            "date": "2021-08-22",
+            "daily_cases": 25952,
+            "daily_admissions": 726,
+            "daily_deaths": 33
+        },
+        {
+            "date": "2021-08-21",
+            "daily_cases": 26982,
+            "daily_admissions": 757,
+            "daily_deaths": 97
+        },
+        {
+            "date": "2021-08-20",
+            "daily_cases": 29576,
+            "daily_admissions": 733,
+            "daily_deaths": 92
+        },
+        {
+            "date": "2021-08-19",
+            "daily_cases": 29762,
+            "daily_admissions": 824,
+            "daily_deaths": 95
+        },
+        {
+            "date": "2021-08-18",
+            "daily_cases": 28648,
+            "daily_admissions": 795,
+            "daily_deaths": 86
+        },
+        {
+            "date": "2021-08-17",
+            "daily_cases": 22712,
+            "daily_admissions": 832,
+            "daily_deaths": 154
+        },
+        {
+            "date": "2021-08-16",
+            "daily_cases": 23171,
+            "daily_admissions": 776,
+            "daily_deaths": 20
+        },
+        {
+            "date": "2021-08-15",
+            "daily_cases": 22859,
+            "daily_admissions": 719,
+            "daily_deaths": 54
+        },
+        {
+            "date": "2021-08-14",
+            "daily_cases": 26700,
+            "daily_admissions": 689,
+            "daily_deaths": 83
+        },
+        {
+            "date": "2021-08-13",
+            "daily_cases": 28679,
+            "daily_admissions": 694,
+            "daily_deaths": 86
+        },
+        {
+            "date": "2021-08-12",
+            "daily_cases": 28093,
+            "daily_admissions": 758,
+            "daily_deaths": 81
+        },
+        {
+            "date": "2021-08-11",
+            "daily_cases": 26647,
+            "daily_admissions": 747,
+            "daily_deaths": 91
+        },
+        {
+            "date": "2021-08-10",
+            "daily_cases": 20630,
+            "daily_admissions": 760,
+            "daily_deaths": 132
+        },
+        {
+            "date": "2021-08-09",
+            "daily_cases": 21915,
+            "daily_admissions": 665,
+            "daily_deaths": 26
+        },
+        {
+            "date": "2021-08-08",
+            "daily_cases": 24196,
+            "daily_admissions": 651,
+            "daily_deaths": 35
+        },
+        {
+            "date": "2021-08-07",
+            "daily_cases": 25877,
+            "daily_admissions": 630,
+            "daily_deaths": 88
+        },
+        {
+            "date": "2021-08-06",
+            "daily_cases": 28321,
+            "daily_admissions": 657,
+            "daily_deaths": 81
+        },
+        {
+            "date": "2021-08-05",
+            "daily_cases": 26512,
+            "daily_admissions": 693,
+            "daily_deaths": 69
+        },
+        {
+            "date": "2021-08-04",
+            "daily_cases": 26393,
+            "daily_admissions": 747,
+            "daily_deaths": 101
+        },
+        {
+            "date": "2021-08-03",
+            "daily_cases": 19012,
+            "daily_admissions": 680,
+            "daily_deaths": 123
+        },
+        {
+            "date": "2021-08-02",
+            "daily_cases": 19175,
+            "daily_admissions": 686,
+            "daily_deaths": 17
+        },
+        {
+            "date": "2021-08-01",
+            "daily_cases": 21645,
+            "daily_admissions": 645,
+            "daily_deaths": 52
+        },
+        {
+            "date": "2021-07-31",
+            "daily_cases": 23949,
+            "daily_admissions": 593,
+            "daily_deaths": 54
+        },
+        {
+            "date": "2021-07-30",
+            "daily_cases": 26241,
+            "daily_admissions": 650,
+            "daily_deaths": 55
+        },
+        {
+            "date": "2021-07-29",
+            "daily_cases": 27524,
+            "daily_admissions": 758,
+            "daily_deaths": 67
+        },
+        {
+            "date": "2021-07-28",
+            "daily_cases": 24367,
+            "daily_admissions": 728,
+            "daily_deaths": 73
+        },
+        {
+            "date": "2021-07-27",
+            "daily_cases": 20290,
+            "daily_admissions": 816,
+            "daily_deaths": 121
+        },
+        {
+            "date": "2021-07-26",
+            "daily_cases": 22181,
+            "daily_admissions": 830,
+            "daily_deaths": 12
+        },
+        {
+            "date": "2021-07-25",
+            "daily_cases": 25434,
+            "daily_admissions": 836,
+            "daily_deaths": 26
+        },
+        {
+            "date": "2021-07-24",
+            "daily_cases": 28968,
+            "daily_admissions": 734,
+            "daily_deaths": 74
+        },
+        {
+            "date": "2021-07-23",
+            "daily_cases": 32792,
+            "daily_admissions": 725,
+            "daily_deaths": 56
+        },
+        {
+            "date": "2021-07-22",
+            "daily_cases": 35939,
+            "daily_admissions": 827,
+            "daily_deaths": 58
+        },
+        {
+            "date": "2021-07-21",
+            "daily_cases": 39504,
+            "daily_admissions": 783,
+            "daily_deaths": 63
+        },
+        {
+            "date": "2021-07-20",
+            "daily_cases": 43261,
+            "daily_admissions": 805,
+            "daily_deaths": 82
+        },
+        {
+            "date": "2021-07-19",
+            "daily_cases": 34657,
+            "daily_admissions": 752,
+            "daily_deaths": 15
+        },
+        {
+            "date": "2021-07-18",
+            "daily_cases": 44777,
+            "daily_admissions": 698,
+            "daily_deaths": 21
+        },
+        {
+            "date": "2021-07-17",
+            "daily_cases": 50955,
+            "daily_admissions": 622,
+            "daily_deaths": 35
+        },
+        {
+            "date": "2021-07-16",
+            "daily_cases": 47360,
+            "daily_admissions": 593,
+            "daily_deaths": 42
+        },
+        {
+            "date": "2021-07-15",
+            "daily_cases": 44523,
+            "daily_admissions": 658,
+            "daily_deaths": 44
+        },
+        {
+            "date": "2021-07-14",
+            "daily_cases": 37895,
+            "daily_admissions": 636,
+            "daily_deaths": 36
+        },
+        {
+            "date": "2021-07-13",
+            "daily_cases": 32883,
+            "daily_admissions": 621,
+            "daily_deaths": 45
+        },
+        {
+            "date": "2021-07-12",
+            "daily_cases": 30619,
+            "daily_admissions": 610,
+            "daily_deaths": 6
+        },
+        {
+            "date": "2021-07-11",
+            "daily_cases": 28421,
+            "daily_admissions": 502,
+            "daily_deaths": 25
+        },
+        {
+            "date": "2021-07-10",
+            "daily_cases": 29732,
+            "daily_admissions": 442,
+            "daily_deaths": 26
+        },
+        {
+            "date": "2021-07-09",
+            "daily_cases": 31231,
+            "daily_admissions": 451,
+            "daily_deaths": 22
+        },
+        {
+            "date": "2021-07-08",
+            "daily_cases": 28421,
+            "daily_admissions": 488,
+            "daily_deaths": 31
+        },
+        {
+            "date": "2021-07-07",
+            "daily_cases": 27516,
+            "daily_admissions": 461,
+            "daily_deaths": 28
+        },
+        {
+            "date": "2021-07-06",
+            "daily_cases": 25295,
+            "daily_admissions": 458,
+            "daily_deaths": 30
+        },
+        {
+            "date": "2021-07-05",
+            "daily_cases": 23286,
+            "daily_admissions": 416,
+            "daily_deaths": 7
+        },
+        {
+            "date": "2021-07-04",
+            "daily_cases": 20454,
+            "daily_admissions": 390,
+            "daily_deaths": 15
+        },
+        {
+            "date": "2021-07-03",
+            "daily_cases": 21317,
+            "daily_admissions": 323,
+            "daily_deaths": 15
+        },
+        {
+            "date": "2021-07-02",
+            "daily_cases": 22393,
+            "daily_admissions": 307,
+            "daily_deaths": 22
+        },
+        {
+            "date": "2021-07-01",
+            "daily_cases": 22948,
+            "daily_admissions": 295,
+            "daily_deaths": 16
+        },
+        {
+            "date": "2021-06-30",
+            "daily_cases": 21293,
+            "daily_admissions": 331,
+            "daily_deaths": 11
+        },
+        {
+            "date": "2021-06-29",
+            "daily_cases": 16802,
+            "daily_admissions": 283,
+            "daily_deaths": 22
+        },
+        {
+            "date": "2021-06-28",
+            "daily_cases": 18702,
+            "daily_admissions": 244,
+            "daily_deaths": 3
+        },
+        {
+            "date": "2021-06-27",
+            "daily_cases": 11560,
+            "daily_admissions": 226,
+            "daily_deaths": 9
+        },
+        {
+            "date": "2021-06-26",
+            "daily_cases": 15136,
+            "daily_admissions": 223,
+            "daily_deaths": 20
+        },
+        {
+            "date": "2021-06-25",
+            "daily_cases": 13498,
+            "daily_admissions": 206,
+            "daily_deaths": 15
+        },
+        {
+            "date": "2021-06-24",
+            "daily_cases": 13068,
+            "daily_admissions": 194,
+            "daily_deaths": 16
+        },
+        {
+            "date": "2021-06-23",
+            "daily_cases": 12765,
+            "daily_admissions": 214,
+            "daily_deaths": 13
+        },
+        {
+            "date": "2021-06-22",
+            "daily_cases": 9096,
+            "daily_admissions": 182,
+            "daily_deaths": 23
+        },
+        {
+            "date": "2021-06-21",
+            "daily_cases": 8766,
+            "daily_admissions": 181,
+            "daily_deaths": 5
+        },
+        {
+            "date": "2021-06-20",
+            "daily_cases": 7778,
+            "daily_admissions": 171,
+            "daily_deaths": 6
+        },
+        {
+            "date": "2021-06-19",
+            "daily_cases": 8954,
+            "daily_admissions": 178,
+            "daily_deaths": 12
+        },
+        {
+            "date": "2021-06-18",
+            "daily_cases": 9185,
+            "daily_admissions": 185,
+            "daily_deaths": 9
+        },
+        {
+            "date": "2021-06-17",
+            "daily_cases": 9371,
+            "daily_admissions": 202,
+            "daily_deaths": 15
+        },
+        {
+            "date": "2021-06-16",
+            "daily_cases": 7642,
+            "daily_admissions": 177,
+            "daily_deaths": 8
+        },
+        {
+            "date": "2021-06-15",
+            "daily_cases": 6486,
+            "daily_admissions": 188,
+            "daily_deaths": 8
+        },
+        {
+            "date": "2021-06-14",
+            "daily_cases": 6647,
+            "daily_admissions": 185,
+            "daily_deaths": 3
+        },
+        {
+            "date": "2021-06-13",
+            "daily_cases": 6269,
+            "daily_admissions": 187,
+            "daily_deaths": 7
+        },
+        {
+            "date": "2021-06-12",
+            "daily_cases": 6601,
+            "daily_admissions": 137,
+            "daily_deaths": 10
+        },
+        {
+            "date": "2021-06-11",
+            "daily_cases": 6782,
+            "daily_admissions": 144,
+            "daily_deaths": 16
+        },
+        {
+            "date": "2021-06-10",
+            "daily_cases": 6436,
+            "daily_admissions": 162,
+            "daily_deaths": 5
+        },
+        {
+            "date": "2021-06-09",
+            "daily_cases": 6201,
+            "daily_admissions": 158,
+            "daily_deaths": 5
+        },
+        {
+            "date": "2021-06-08",
+            "daily_cases": 5250,
+            "daily_admissions": 147,
+            "daily_deaths": 13
+        },
+        {
+            "date": "2021-06-07",
+            "daily_cases": 4913,
+            "daily_admissions": 131,
+            "daily_deaths": 0
+        },
+        {
+            "date": "2021-06-06",
+            "daily_cases": 4405,
+            "daily_admissions": 121,
+            "daily_deaths": 4
+        },
+        {
+            "date": "2021-06-05",
+            "daily_cases": 4810,
+            "daily_admissions": 96,
+            "daily_deaths": 12
+        },
+        {
+            "date": "2021-06-04",
+            "daily_cases": 5102,
+            "daily_admissions": 96,
+            "daily_deaths": 9
+        },
+        {
+            "date": "2021-06-03",
+            "daily_cases": 4310,
+            "daily_admissions": 93,
+            "daily_deaths": 13
+        },
+        {
+            "date": "2021-06-02",
+            "daily_cases": 3486,
+            "daily_admissions": 101,
+            "daily_deaths": 11
+        },
+        {
+            "date": "2021-06-01",
+            "daily_cases": 2539,
+            "daily_admissions": 115,
+            "daily_deaths": 0
+        },
+        {
+            "date": "2021-05-31",
+            "daily_cases": 2854,
+            "daily_admissions": 98,
+            "daily_deaths": 0
+        },
+        {
+            "date": "2021-05-30",
+            "daily_cases": 2621,
+            "daily_admissions": 80,
+            "daily_deaths": 6
+        },
+        {
+            "date": "2021-05-29",
+            "daily_cases": 2747,
+            "daily_admissions": 69,
+            "daily_deaths": 6
+        },
+        {
+            "date": "2021-05-28",
+            "daily_cases": 3434,
+            "daily_admissions": 92,
+            "daily_deaths": 8
+        },
+        {
+            "date": "2021-05-27",
+            "daily_cases": 2936,
+            "daily_admissions": 83,
+            "daily_deaths": 8
+        },
+        {
+            "date": "2021-05-26",
+            "daily_cases": 2540,
+            "daily_admissions": 95,
+            "daily_deaths": 8
+        },
+        {
+            "date": "2021-05-25",
+            "daily_cases": 2081,
+            "daily_admissions": 88,
+            "daily_deaths": 13
+        },
+        {
+            "date": "2021-05-24",
+            "daily_cases": 1972,
+            "daily_admissions": 98,
+            "daily_deaths": 3
+        },
+        {
+            "date": "2021-05-23",
+            "daily_cases": 1734,
+            "daily_admissions": 77,
+            "daily_deaths": 3
+        },
+        {
+            "date": "2021-05-22",
+            "daily_cases": 2242,
+            "daily_admissions": 75,
+            "daily_deaths": 6
+        },
+        {
+            "date": "2021-05-21",
+            "daily_cases": 2303,
+            "daily_admissions": 85,
+            "daily_deaths": 6
+        },
+        {
+            "date": "2021-05-20",
+            "daily_cases": 2307,
+            "daily_admissions": 98,
+            "daily_deaths": 6
+        },
+        {
+            "date": "2021-05-19",
+            "daily_cases": 2151,
+            "daily_admissions": 93,
+            "daily_deaths": 3
+        },
+        {
+            "date": "2021-05-18",
+            "daily_cases": 2008,
+            "daily_admissions": 90,
+            "daily_deaths": 5
+        },
+        {
+            "date": "2021-05-17",
+            "daily_cases": 1645,
+            "daily_admissions": 74,
+            "daily_deaths": 3
+        },
+        {
+            "date": "2021-05-16",
+            "daily_cases": 1471,
+            "daily_admissions": 59,
+            "daily_deaths": 3
+        },
+        {
+            "date": "2021-05-15",
+            "daily_cases": 1614,
+            "daily_admissions": 70,
+            "daily_deaths": 7
+        },
+        {
+            "date": "2021-05-14",
+            "daily_cases": 1828,
+            "daily_admissions": 72,
+            "daily_deaths": 15
+        },
+        {
+            "date": "2021-05-13",
+            "daily_cases": 2229,
+            "daily_admissions": 74,
+            "daily_deaths": 8
+        },
+        {
+            "date": "2021-05-12",
+            "daily_cases": 1804,
+            "daily_admissions": 93,
+            "daily_deaths": 11
+        },
+        {
+            "date": "2021-05-11",
+            "daily_cases": 2117,
+            "daily_admissions": 79,
+            "daily_deaths": 18
+        },
+        {
+            "date": "2021-05-10",
+            "daily_cases": 2009,
+            "daily_admissions": 76,
+            "daily_deaths": 0
+        },
+        {
+            "date": "2021-05-09",
+            "daily_cases": 1418,
+            "daily_admissions": 76,
+            "daily_deaths": 2
+        },
+        {
+            "date": "2021-05-08",
+            "daily_cases": 1742,
+            "daily_admissions": 80,
+            "daily_deaths": 5
+        },
+        {
+            "date": "2021-05-07",
+            "daily_cases": 2142,
+            "daily_admissions": 77,
+            "daily_deaths": 13
+        },
+        {
+            "date": "2021-05-06",
+            "daily_cases": 2194,
+            "daily_admissions": 88,
+            "daily_deaths": 12
+        },
+        {
+            "date": "2021-05-05",
+            "daily_cases": 1906,
+            "daily_admissions": 96,
+            "daily_deaths": 27
+        },
+        {
+            "date": "2021-05-04",
+            "daily_cases": 1659,
+            "daily_admissions": 76,
+            "daily_deaths": 3
+        },
+        {
+            "date": "2021-05-03",
+            "daily_cases": 1453,
+            "daily_admissions": 98,
+            "daily_deaths": 1
+        },
+        {
+            "date": "2021-05-02",
+            "daily_cases": 1377,
+            "daily_admissions": 92,
+            "daily_deaths": 13
+        },
+        {
+            "date": "2021-05-01",
+            "daily_cases": 1642,
+            "daily_admissions": 68,
+            "daily_deaths": 6
+        },
+        {
+            "date": "2021-04-30",
+            "daily_cases": 2046,
+            "daily_admissions": 82,
+            "daily_deaths": 14
+        },
+        {
+            "date": "2021-04-29",
+            "daily_cases": 2103,
+            "daily_admissions": 80,
+            "daily_deaths": 15
+        },
+        {
+            "date": "2021-04-28",
+            "daily_cases": 1829,
+            "daily_admissions": 89,
+            "daily_deaths": 27
+        },
+        {
+            "date": "2021-04-27",
+            "daily_cases": 2410,
+            "daily_admissions": 128,
+            "daily_deaths": 16
+        },
+        {
+            "date": "2021-04-26",
+            "daily_cases": 1752,
+            "daily_admissions": 108,
+            "daily_deaths": 3
+        },
+        {
+            "date": "2021-04-25",
+            "daily_cases": 1401,
+            "daily_admissions": 107,
+            "daily_deaths": 7
+        },
+        {
+            "date": "2021-04-24",
+            "daily_cases": 1804,
+            "daily_admissions": 99,
+            "daily_deaths": 27
+        },
+        {
+            "date": "2021-04-23",
+            "daily_cases": 2277,
+            "daily_admissions": 124,
+            "daily_deaths": 38
+        },
+        {
+            "date": "2021-04-22",
+            "daily_cases": 2315,
+            "daily_admissions": 92,
+            "daily_deaths": 11
+        },
+        {
+            "date": "2021-04-21",
+            "daily_cases": 1943,
+            "daily_admissions": 126,
+            "daily_deaths": 20
+        },
+        {
+            "date": "2021-04-20",
+            "daily_cases": 2169,
+            "daily_admissions": 98,
+            "daily_deaths": 28
+        },
+        {
+            "date": "2021-04-19",
+            "daily_cases": 2550,
+            "daily_admissions": 138,
+            "daily_deaths": 2
+        },
+        {
+            "date": "2021-04-18",
+            "daily_cases": 1495,
+            "daily_admissions": 112,
+            "daily_deaths": 7
+        },
+        {
+            "date": "2021-04-17",
+            "daily_cases": 1897,
+            "daily_admissions": 135,
+            "daily_deaths": 31
+        },
+        {
+            "date": "2021-04-16",
+            "daily_cases": 2225,
+            "daily_admissions": 118,
+            "daily_deaths": 30
+        },
+        {
+            "date": "2021-04-15",
+            "daily_cases": 2171,
+            "daily_admissions": 127,
+            "daily_deaths": 25
+        },
+        {
+            "date": "2021-04-14",
+            "daily_cases": 2054,
+            "daily_admissions": 156,
+            "daily_deaths": 34
+        },
+        {
+            "date": "2021-04-13",
+            "daily_cases": 2070,
+            "daily_admissions": 153,
+            "daily_deaths": 18
+        },
+        {
+            "date": "2021-04-12",
+            "daily_cases": 3222,
+            "daily_admissions": 173,
+            "daily_deaths": 13
+        },
+        {
+            "date": "2021-04-11",
+            "daily_cases": 1338,
+            "daily_admissions": 175,
+            "daily_deaths": 3
+        },
+        {
+            "date": "2021-04-10",
+            "daily_cases": 2032,
+            "daily_admissions": 151,
+            "daily_deaths": 33
+        },
+        {
+            "date": "2021-04-09",
+            "daily_cases": 2638,
+            "daily_admissions": 167,
+            "daily_deaths": 51
+        },
+        {
+            "date": "2021-04-08",
+            "daily_cases": 2486,
+            "daily_admissions": 167,
+            "daily_deaths": 44
+        },
+        {
+            "date": "2021-04-07",
+            "daily_cases": 2304,
+            "daily_admissions": 189,
+            "daily_deaths": 40
+        },
+        {
+            "date": "2021-04-06",
+            "daily_cases": 1937,
+            "daily_admissions": 183,
+            "daily_deaths": 15
+        },
+        {
+            "date": "2021-04-05",
+            "daily_cases": 2236,
+            "daily_admissions": 188,
+            "daily_deaths": 16
+        },
+        {
+            "date": "2021-04-04",
+            "daily_cases": 1954,
+            "daily_admissions": 156,
+            "daily_deaths": 10
+        },
+        {
+            "date": "2021-04-03",
+            "daily_cases": 2847,
+            "daily_admissions": 179,
+            "daily_deaths": 8
+        },
+        {
+            "date": "2021-04-02",
+            "daily_cases": 2881,
+            "daily_admissions": 178,
+            "daily_deaths": 47
+        },
+        {
+            "date": "2021-04-01",
+            "daily_cases": 3784,
+            "daily_admissions": 180,
+            "daily_deaths": 41
+        },
+        {
+            "date": "2021-03-31",
+            "daily_cases": 3327,
+            "daily_admissions": 225,
+            "daily_deaths": 36
+        },
+        {
+            "date": "2021-03-30",
+            "daily_cases": 3384,
+            "daily_admissions": 217,
+            "daily_deaths": 39
+        },
+        {
+            "date": "2021-03-29",
+            "daily_cases": 4112,
+            "daily_admissions": 206,
+            "daily_deaths": 22
+        },
+        {
+            "date": "2021-03-28",
+            "daily_cases": 3153,
+            "daily_admissions": 221,
+            "daily_deaths": 17
+        },
+        {
+            "date": "2021-03-27",
+            "daily_cases": 3813,
+            "daily_admissions": 217,
+            "daily_deaths": 43
+        },
+        {
+            "date": "2021-03-26",
+            "daily_cases": 5273,
+            "daily_admissions": 245,
+            "daily_deaths": 61
+        },
+        {
+            "date": "2021-03-25",
+            "daily_cases": 5286,
+            "daily_admissions": 288,
+            "daily_deaths": 49
+        },
+        {
+            "date": "2021-03-24",
+            "daily_cases": 4615,
+            "daily_admissions": 277,
+            "daily_deaths": 92
+        },
+        {
+            "date": "2021-03-23",
+            "daily_cases": 4583,
+            "daily_admissions": 295,
+            "daily_deaths": 103
+        },
+        {
+            "date": "2021-03-22",
+            "daily_cases": 4746,
+            "daily_admissions": 294,
+            "daily_deaths": 16
+        },
+        {
+            "date": "2021-03-21",
+            "daily_cases": 4459,
+            "daily_admissions": 279,
+            "daily_deaths": 26
+        },
+        {
+            "date": "2021-03-20",
+            "daily_cases": 4732,
+            "daily_admissions": 287,
+            "daily_deaths": 82
+        },
+        {
+            "date": "2021-03-19",
+            "daily_cases": 3809,
+            "daily_admissions": 283,
+            "daily_deaths": 81
+        },
+        {
+            "date": "2021-03-18",
+            "daily_cases": 5213,
+            "daily_admissions": 351,
+            "daily_deaths": 83
+        },
+        {
+            "date": "2021-03-17",
+            "daily_cases": 4827,
+            "daily_admissions": 343,
+            "daily_deaths": 121
+        },
+        {
+            "date": "2021-03-16",
+            "daily_cases": 4391,
+            "daily_admissions": 364,
+            "daily_deaths": 101
+        },
+        {
+            "date": "2021-03-15",
+            "daily_cases": 4264,
+            "daily_admissions": 431,
+            "daily_deaths": 61
+        },
+        {
+            "date": "2021-03-14",
+            "daily_cases": 3774,
+            "daily_admissions": 357,
+            "daily_deaths": 40
+        },
+        {
+            "date": "2021-03-13",
+            "daily_cases": 4539,
+            "daily_admissions": 385,
+            "daily_deaths": 106
+        },
+        {
+            "date": "2021-03-12",
+            "daily_cases": 5529,
+            "daily_admissions": 386,
+            "daily_deaths": 145
+        },
+        {
+            "date": "2021-03-11",
+            "daily_cases": 5744,
+            "daily_admissions": 449,
+            "daily_deaths": 138
+        },
+        {
+            "date": "2021-03-10",
+            "daily_cases": 4863,
+            "daily_admissions": 494,
+            "daily_deaths": 156
+        },
+        {
+            "date": "2021-03-09",
+            "daily_cases": 4894,
+            "daily_admissions": 483,
+            "daily_deaths": 207
+        },
+        {
+            "date": "2021-03-08",
+            "daily_cases": 3903,
+            "daily_admissions": 501,
+            "daily_deaths": 62
+        },
+        {
+            "date": "2021-03-07",
+            "daily_cases": 4497,
+            "daily_admissions": 461,
+            "daily_deaths": 61
+        },
+        {
+            "date": "2021-03-06",
+            "daily_cases": 5118,
+            "daily_admissions": 528,
+            "daily_deaths": 135
+        },
+        {
+            "date": "2021-03-05",
+            "daily_cases": 5053,
+            "daily_admissions": 487,
+            "daily_deaths": 211
+        },
+        {
+            "date": "2021-03-04",
+            "daily_cases": 5643,
+            "daily_admissions": 596,
+            "daily_deaths": 202
+        },
+        {
+            "date": "2021-03-03",
+            "daily_cases": 5408,
+            "daily_admissions": 607,
+            "daily_deaths": 264
+        },
+        {
+            "date": "2021-03-02",
+            "daily_cases": 5530,
+            "daily_admissions": 683,
+            "daily_deaths": 307
+        },
+        {
+            "date": "2021-03-01",
+            "daily_cases": 4738,
+            "daily_admissions": 704,
+            "daily_deaths": 99
+        },
+        {
+            "date": "2021-02-28",
+            "daily_cases": 5080,
+            "daily_admissions": 662,
+            "daily_deaths": 115
+        },
+        {
+            "date": "2021-02-27",
+            "daily_cases": 6527,
+            "daily_admissions": 624,
+            "daily_deaths": 254
+        },
+        {
+            "date": "2021-02-26",
+            "daily_cases": 7393,
+            "daily_admissions": 718,
+            "daily_deaths": 300
+        },
+        {
+            "date": "2021-02-25",
+            "daily_cases": 8623,
+            "daily_admissions": 832,
+            "daily_deaths": 266
+        },
+        {
+            "date": "2021-02-24",
+            "daily_cases": 8644,
+            "daily_admissions": 874,
+            "daily_deaths": 380
+        },
+        {
+            "date": "2021-02-23",
+            "daily_cases": 7292,
+            "daily_admissions": 976,
+            "daily_deaths": 483
+        },
+        {
+            "date": "2021-02-22",
+            "daily_cases": 9420,
+            "daily_admissions": 980,
+            "daily_deaths": 165
+        },
+        {
+            "date": "2021-02-21",
+            "daily_cases": 8408,
+            "daily_admissions": 1009,
+            "daily_deaths": 190
+        },
+        {
+            "date": "2021-02-20",
+            "daily_cases": 8964,
+            "daily_admissions": 904,
+            "daily_deaths": 397
+        },
+        {
+            "date": "2021-02-19",
+            "daily_cases": 10296,
+            "daily_admissions": 1068,
+            "daily_deaths": 481
+        },
+        {
+            "date": "2021-02-18",
+            "daily_cases": 10740,
+            "daily_admissions": 1149,
+            "daily_deaths": 377
+        },
+        {
+            "date": "2021-02-17",
+            "daily_cases": 10926,
+            "daily_admissions": 1233,
+            "daily_deaths": 638
+        },
+        {
+            "date": "2021-02-16",
+            "daily_cases": 9236,
+            "daily_admissions": 1311,
+            "daily_deaths": 733
+        },
+        {
+            "date": "2021-02-15",
+            "daily_cases": 8609,
+            "daily_admissions": 1322,
+            "daily_deaths": 210
+        },
+        {
+            "date": "2021-02-14",
+            "daily_cases": 9499,
+            "daily_admissions": 1364,
+            "daily_deaths": 228
+        },
+        {
+            "date": "2021-02-13",
+            "daily_cases": 11697,
+            "daily_admissions": 1240,
+            "daily_deaths": 544
+        },
+        {
+            "date": "2021-02-12",
+            "daily_cases": 13299,
+            "daily_admissions": 1318,
+            "daily_deaths": 657
+        },
+        {
+            "date": "2021-02-11",
+            "daily_cases": 12001,
+            "daily_admissions": 1440,
+            "daily_deaths": 594
+        },
+        {
+            "date": "2021-02-10",
+            "daily_cases": 11551,
+            "daily_admissions": 1535,
+            "daily_deaths": 926
+        },
+        {
+            "date": "2021-02-09",
+            "daily_cases": 10916,
+            "daily_admissions": 1531,
+            "daily_deaths": 974
+        },
+        {
+            "date": "2021-02-08",
+            "daily_cases": 12270,
+            "daily_admissions": 1739,
+            "daily_deaths": 304
+        },
+        {
+            "date": "2021-02-07",
+            "daily_cases": 14466,
+            "daily_admissions": 1675,
+            "daily_deaths": 329
+        },
+        {
+            "date": "2021-02-06",
+            "daily_cases": 16302,
+            "daily_admissions": 1679,
+            "daily_deaths": 724
+        },
+        {
+            "date": "2021-02-05",
+            "daily_cases": 17314,
+            "daily_admissions": 1757,
+            "daily_deaths": 892
+        },
+        {
+            "date": "2021-02-04",
+            "daily_cases": 18529,
+            "daily_admissions": 1907,
+            "daily_deaths": 817
+        },
+        {
+            "date": "2021-02-03",
+            "daily_cases": 17265,
+            "daily_admissions": 2096,
+            "daily_deaths": 1173
+        },
+        {
+            "date": "2021-02-02",
+            "daily_cases": 15021,
+            "daily_admissions": 2222,
+            "daily_deaths": 1356
+        },
+        {
+            "date": "2021-02-01",
+            "daily_cases": 16815,
+            "daily_admissions": 2347,
+            "daily_deaths": 368
+        },
+        {
+            "date": "2021-01-31",
+            "daily_cases": 19054,
+            "daily_admissions": 2183,
+            "daily_deaths": 528
+        },
+        {
+            "date": "2021-01-30",
+            "daily_cases": 21089,
+            "daily_admissions": 2193,
+            "daily_deaths": 1098
+        },
+        {
+            "date": "2021-01-29",
+            "daily_cases": 26709,
+            "daily_admissions": 2379,
+            "daily_deaths": 1124
+        },
+        {
+            "date": "2021-01-28",
+            "daily_cases": 26182,
+            "daily_admissions": 2719,
+            "daily_deaths": 1088
+        },
+        {
+            "date": "2021-01-27",
+            "daily_cases": 22914,
+            "daily_admissions": 2742,
+            "daily_deaths": 1568
+        },
+        {
+            "date": "2021-01-26",
+            "daily_cases": 17920,
+            "daily_admissions": 2799,
+            "daily_deaths": 1520
+        },
+        {
+            "date": "2021-01-25",
+            "daily_cases": 20149,
+            "daily_admissions": 2648,
+            "daily_deaths": 548
+        },
+        {
+            "date": "2021-01-24",
+            "daily_cases": 27580,
+            "daily_admissions": 2824,
+            "daily_deaths": 551
+        },
+        {
+            "date": "2021-01-23",
+            "daily_cases": 30496,
+            "daily_admissions": 2780,
+            "daily_deaths": 1233
+        },
+        {
+            "date": "2021-01-22",
+            "daily_cases": 37115,
+            "daily_admissions": 3016,
+            "daily_deaths": 1251
+        },
+        {
+            "date": "2021-01-21",
+            "daily_cases": 34371,
+            "daily_admissions": 3237,
+            "daily_deaths": 1134
+        },
+        {
+            "date": "2021-01-20",
+            "daily_cases": 35061,
+            "daily_admissions": 3679,
+            "daily_deaths": 1662
+        },
+        {
+            "date": "2021-01-19",
+            "daily_cases": 30371,
+            "daily_admissions": 3768,
+            "daily_deaths": 1507
+        },
+        {
+            "date": "2021-01-18",
+            "daily_cases": 34134,
+            "daily_admissions": 3711,
+            "daily_deaths": 560
+        },
+        {
+            "date": "2021-01-17",
+            "daily_cases": 35263,
+            "daily_admissions": 3424,
+            "daily_deaths": 598
+        },
+        {
+            "date": "2021-01-16",
+            "daily_cases": 37759,
+            "daily_admissions": 3569,
+            "daily_deaths": 1140
+        },
+        {
+            "date": "2021-01-15",
+            "daily_cases": 50741,
+            "daily_admissions": 3295,
+            "daily_deaths": 1139
+        },
+        {
+            "date": "2021-01-14",
+            "daily_cases": 44358,
+            "daily_admissions": 3678,
+            "daily_deaths": 1114
+        },
+        {
+            "date": "2021-01-13",
+            "daily_cases": 42898,
+            "daily_admissions": 3840,
+            "daily_deaths": 1400
+        },
+        {
+            "date": "2021-01-12",
+            "daily_cases": 41121,
+            "daily_admissions": 4134,
+            "daily_deaths": 1151
+        },
+        {
+            "date": "2021-01-11",
+            "daily_cases": 41835,
+            "daily_admissions": 3894,
+            "daily_deaths": 495
+        },
+        {
+            "date": "2021-01-10",
+            "daily_cases": 50291,
+            "daily_admissions": 3571,
+            "daily_deaths": 498
+        },
+        {
+            "date": "2021-01-09",
+            "daily_cases": 54257,
+            "daily_admissions": 3718,
+            "daily_deaths": 871
+        },
+        {
+            "date": "2021-01-08",
+            "daily_cases": 61757,
+            "daily_admissions": 3549,
+            "daily_deaths": 1156
+        },
+        {
+            "date": "2021-01-07",
+            "daily_cases": 46841,
+            "daily_admissions": 3849,
+            "daily_deaths": 1004
+        },
+        {
+            "date": "2021-01-06",
+            "daily_cases": 56060,
+            "daily_admissions": 3967,
+            "daily_deaths": 884
+        },
+        {
+            "date": "2021-01-05",
+            "daily_cases": 54940,
+            "daily_admissions": 3697,
+            "daily_deaths": 784
+        },
+        {
+            "date": "2021-01-04",
+            "daily_cases": 53180,
+            "daily_admissions": 3587,
+            "daily_deaths": 370
+        },
+        {
+            "date": "2021-01-03",
+            "daily_cases": 46853,
+            "daily_admissions": 3351,
+            "daily_deaths": 392
+        },
+        {
+            "date": "2021-01-02",
+            "daily_cases": 49248,
+            "daily_admissions": 3145,
+            "daily_deaths": 349
+        },
+        {
+            "date": "2021-01-01",
+            "daily_cases": 50746,
+            "daily_admissions": 3010,
+            "daily_deaths": 613
+        },
+        {
+            "date": "2020-12-31",
+            "daily_cases": 49510,
+            "daily_admissions": 2536,
+            "daily_deaths": 820
+        },
+        {
+            "date": "2020-12-30",
+            "daily_cases": 43554,
+            "daily_admissions": 2861,
+            "daily_deaths": 919
+        },
+        {
+            "date": "2020-12-29",
+            "daily_cases": 47164,
+            "daily_admissions": 2886,
+            "daily_deaths": 360
+        },
+        {
+            "date": "2020-12-28",
+            "daily_cases": 36511,
+            "daily_admissions": 2795,
+            "daily_deaths": 322
+        },
+        {
+            "date": "2020-12-27",
+            "daily_cases": 25619,
+            "daily_admissions": 2572,
+            "daily_deaths": 246
+        },
+        {
+            "date": "2020-12-26",
+            "daily_cases": 31307,
+            "daily_admissions": 2298,
+            "daily_deaths": 175
+        },
+        {
+            "date": "2020-12-25",
+            "daily_cases": 31560,
+            "daily_admissions": 1952,
+            "daily_deaths": 570
+        },
+        {
+            "date": "2020-12-24",
+            "daily_cases": 35561,
+            "daily_admissions": 1795,
+            "daily_deaths": 468
+        },
+        {
+            "date": "2020-12-23",
+            "daily_cases": 34247,
+            "daily_admissions": 1980,
+            "daily_deaths": 625
+        },
+        {
+            "date": "2020-12-22",
+            "daily_cases": 32288,
+            "daily_admissions": 2203,
+            "daily_deaths": 608
+        },
+        {
+            "date": "2020-12-21",
+            "daily_cases": 28742,
+            "daily_admissions": 2115,
+            "daily_deaths": 198
+        },
+        {
+            "date": "2020-12-20",
+            "daily_cases": 32155,
+            "daily_admissions": 1976,
+            "daily_deaths": 241
+        },
+        {
+            "date": "2020-12-19",
+            "daily_cases": 22775,
+            "daily_admissions": 1812,
+            "daily_deaths": 441
+        },
+        {
+            "date": "2020-12-18",
+            "daily_cases": 24452,
+            "daily_admissions": 1672,
+            "daily_deaths": 403
+        },
+        {
+            "date": "2020-12-17",
+            "daily_cases": 22401,
+            "daily_admissions": 1873,
+            "daily_deaths": 438
+        },
+        {
+            "date": "2020-12-16",
+            "daily_cases": 23432,
+            "daily_admissions": 1796,
+            "daily_deaths": 537
+        },
+        {
+            "date": "2020-12-15",
+            "daily_cases": 16504,
+            "daily_admissions": 1730,
+            "daily_deaths": 467
+        },
+        {
+            "date": "2020-12-14",
+            "daily_cases": 17882,
+            "daily_admissions": 1746,
+            "daily_deaths": 194
+        },
+        {
+            "date": "2020-12-13",
+            "daily_cases": 17164,
+            "daily_admissions": 1581,
+            "daily_deaths": 138
+        },
+        {
+            "date": "2020-12-12",
+            "daily_cases": 17468,
+            "daily_admissions": 1587,
+            "daily_deaths": 440
+        },
+        {
+            "date": "2020-12-11",
+            "daily_cases": 17899,
+            "daily_admissions": 1450,
+            "daily_deaths": 353
+        },
+        {
+            "date": "2020-12-10",
+            "daily_cases": 17622,
+            "daily_admissions": 1524,
+            "daily_deaths": 419
+        },
+        {
+            "date": "2020-12-09",
+            "daily_cases": 12960,
+            "daily_admissions": 1550,
+            "daily_deaths": 451
+        },
+        {
+            "date": "2020-12-08",
+            "daily_cases": 10459,
+            "daily_admissions": 1528,
+            "daily_deaths": 538
+        },
+        {
+            "date": "2020-12-07",
+            "daily_cases": 11623,
+            "daily_admissions": 1466,
+            "daily_deaths": 177
+        },
+        {
+            "date": "2020-12-06",
+            "daily_cases": 14294,
+            "daily_admissions": 1311,
+            "daily_deaths": 201
+        },
+        {
+            "date": "2020-12-05",
+            "daily_cases": 12666,
+            "daily_admissions": 1186,
+            "daily_deaths": 344
+        },
+        {
+            "date": "2020-12-04",
+            "daily_cases": 13412,
+            "daily_admissions": 1248,
+            "daily_deaths": 424
+        },
+        {
+            "date": "2020-12-03",
+            "daily_cases": 11992,
+            "daily_admissions": 1337,
+            "daily_deaths": 328
+        },
+        {
+            "date": "2020-12-02",
+            "daily_cases": 13323,
+            "daily_admissions": 1262,
+            "daily_deaths": 555
+        },
+        {
+            "date": "2020-12-01",
+            "daily_cases": 11618,
+            "daily_admissions": 1271,
+            "daily_deaths": 531
+        },
+        {
+            "date": "2020-11-30",
+            "daily_cases": 10869,
+            "daily_admissions": 1216,
+            "daily_deaths": 189
+        },
+        {
+            "date": "2020-11-29",
+            "daily_cases": 10054,
+            "daily_admissions": 1215,
+            "daily_deaths": 194
+        },
+        {
+            "date": "2020-11-28",
+            "daily_cases": 13323,
+            "daily_admissions": 1065,
+            "daily_deaths": 397
+        },
+        {
+            "date": "2020-11-27",
+            "daily_cases": 13557,
+            "daily_admissions": 1055,
+            "daily_deaths": 451
+        },
+        {
+            "date": "2020-11-26",
+            "daily_cases": 14637,
+            "daily_admissions": 1198,
+            "daily_deaths": 411
+        },
+        {
+            "date": "2020-11-25",
+            "daily_cases": 15893,
+            "daily_admissions": 1415,
+            "daily_deaths": 604
+        },
+        {
+            "date": "2020-11-24",
+            "daily_cases": 9854,
+            "daily_admissions": 1277,
+            "daily_deaths": 535
+        },
+        {
+            "date": "2020-11-23",
+            "daily_cases": 13329,
+            "daily_admissions": 1385,
+            "daily_deaths": 194
+        },
+        {
+            "date": "2020-11-22",
+            "daily_cases": 16668,
+            "daily_admissions": 1333,
+            "daily_deaths": 370
+        },
+        {
+            "date": "2020-11-21",
+            "daily_cases": 17615,
+            "daily_admissions": 1255,
+            "daily_deaths": 266
+        },
+        {
+            "date": "2020-11-20",
+            "daily_cases": 17845,
+            "daily_admissions": 1316,
+            "daily_deaths": 436
+        },
+        {
+            "date": "2020-11-19",
+            "daily_cases": 20291,
+            "daily_admissions": 1484,
+            "daily_deaths": 416
+        },
+        {
+            "date": "2020-11-18",
+            "daily_cases": 17189,
+            "daily_admissions": 1571,
+            "daily_deaths": 423
+        },
+        {
+            "date": "2020-11-17",
+            "daily_cases": 17549,
+            "daily_admissions": 1491,
+            "daily_deaths": 518
+        },
+        {
+            "date": "2020-11-16",
+            "daily_cases": 19423,
+            "daily_admissions": 1560,
+            "daily_deaths": 191
+        },
+        {
+            "date": "2020-11-15",
+            "daily_cases": 21998,
+            "daily_admissions": 1467,
+            "daily_deaths": 143
+        },
+        {
+            "date": "2020-11-14",
+            "daily_cases": 24298,
+            "daily_admissions": 1388,
+            "daily_deaths": 396
+        },
+        {
+            "date": "2020-11-13",
+            "daily_cases": 24540,
+            "daily_admissions": 1433,
+            "daily_deaths": 280
+        },
+        {
+            "date": "2020-11-12",
+            "daily_cases": 30843,
+            "daily_admissions": 1666,
+            "daily_deaths": 469
+        },
+        {
+            "date": "2020-11-11",
+            "daily_cases": 19970,
+            "daily_admissions": 1711,
+            "daily_deaths": 478
+        },
+        {
+            "date": "2020-11-10",
+            "daily_cases": 18622,
+            "daily_admissions": 1592,
+            "daily_deaths": 460
+        },
+        {
+            "date": "2020-11-09",
+            "daily_cases": 19036,
+            "daily_admissions": 1551,
+            "daily_deaths": 175
+        },
+        {
+            "date": "2020-11-08",
+            "daily_cases": 18293,
+            "daily_admissions": 1488,
+            "daily_deaths": 127
+        },
+        {
+            "date": "2020-11-07",
+            "daily_cases": 21875,
+            "daily_admissions": 1319,
+            "daily_deaths": 328
+        },
+        {
+            "date": "2020-11-06",
+            "daily_cases": 20268,
+            "daily_admissions": 1182,
+            "daily_deaths": 303
+        },
+        {
+            "date": "2020-11-05",
+            "daily_cases": 21137,
+            "daily_admissions": 1346,
+            "daily_deaths": 297
+        },
+        {
+            "date": "2020-11-04",
+            "daily_cases": 21863,
+            "daily_admissions": 1382,
+            "daily_deaths": 388
+        },
+        {
+            "date": "2020-11-03",
+            "daily_cases": 17330,
+            "daily_admissions": 1246,
+            "daily_deaths": 359
+        },
+        {
+            "date": "2020-11-02",
+            "daily_cases": 15860,
+            "daily_admissions": 1331,
+            "daily_deaths": 125
+        },
+        {
+            "date": "2020-11-01",
+            "daily_cases": 20602,
+            "daily_admissions": 1280,
+            "daily_deaths": 132
+        },
+        {
+            "date": "2020-10-31",
+            "daily_cases": 18864,
+            "daily_admissions": 1240,
+            "daily_deaths": 278
+        },
+        {
+            "date": "2020-10-30",
+            "daily_cases": 20821,
+            "daily_admissions": 1109,
+            "daily_deaths": 226
+        },
+        {
+            "date": "2020-10-29",
+            "daily_cases": 19740,
+            "daily_admissions": 1345,
+            "daily_deaths": 214
+        },
+        {
+            "date": "2020-10-28",
+            "daily_cases": 21245,
+            "daily_admissions": 1239,
+            "daily_deaths": 236
+        },
+        {
+            "date": "2020-10-27",
+            "daily_cases": 19629,
+            "daily_admissions": 1190,
+            "daily_deaths": 322
+        },
+        {
+            "date": "2020-10-26",
+            "daily_cases": 17883,
+            "daily_admissions": 1279,
+            "daily_deaths": 90
+        },
+        {
+            "date": "2020-10-25",
+            "daily_cases": 16487,
+            "daily_admissions": 1186,
+            "daily_deaths": 137
+        },
+        {
+            "date": "2020-10-24",
+            "daily_cases": 19332,
+            "daily_admissions": 990,
+            "daily_deaths": 141
+        },
+        {
+            "date": "2020-10-23",
+            "daily_cases": 17116,
+            "daily_admissions": 997,
+            "daily_deaths": 188
+        },
+        {
+            "date": "2020-10-22",
+            "daily_cases": 17354,
+            "daily_admissions": 987,
+            "daily_deaths": 160
+        },
+        {
+            "date": "2020-10-21",
+            "daily_cases": 22948,
+            "daily_admissions": 997,
+            "daily_deaths": 144
+        },
+        {
+            "date": "2020-10-20",
+            "daily_cases": 17814,
+            "daily_admissions": 925,
+            "daily_deaths": 213
+        },
+        {
+            "date": "2020-10-19",
+            "daily_cases": 16365,
+            "daily_admissions": 861,
+            "daily_deaths": 72
+        },
+        {
+            "date": "2020-10-18",
+            "daily_cases": 14704,
+            "daily_admissions": 870,
+            "daily_deaths": 59
+        },
+        {
+            "date": "2020-10-17",
+            "daily_cases": 13299,
+            "daily_admissions": 785,
+            "daily_deaths": 128
+        },
+        {
+            "date": "2020-10-16",
+            "daily_cases": 12176,
+            "daily_admissions": 632,
+            "daily_deaths": 120
+        },
+        {
+            "date": "2020-10-15",
+            "daily_cases": 16139,
+            "daily_admissions": 792,
+            "daily_deaths": 111
+        },
+        {
+            "date": "2020-10-14",
+            "daily_cases": 16132,
+            "daily_admissions": 706,
+            "daily_deaths": 108
+        },
+        {
+            "date": "2020-10-13",
+            "daily_cases": 14310,
+            "daily_admissions": 764,
+            "daily_deaths": 124
+        },
+        {
+            "date": "2020-10-12",
+            "daily_cases": 11647,
+            "daily_admissions": 664,
+            "daily_deaths": 43
+        },
+        {
+            "date": "2020-10-11",
+            "daily_cases": 10383,
+            "daily_admissions": 628,
+            "daily_deaths": 62
+        },
+        {
+            "date": "2020-10-10",
+            "daily_cases": 12628,
+            "daily_admissions": 515,
+            "daily_deaths": 54
+        },
+        {
+            "date": "2020-10-09",
+            "daily_cases": 10772,
+            "daily_admissions": 544,
+            "daily_deaths": 79
+        },
+        {
+            "date": "2020-10-08",
+            "daily_cases": 14952,
+            "daily_admissions": 513,
+            "daily_deaths": 70
+        },
+        {
+            "date": "2020-10-07",
+            "daily_cases": 11528,
+            "daily_admissions": 491,
+            "daily_deaths": 65
+        },
+        {
+            "date": "2020-10-06",
+            "daily_cases": 12648,
+            "daily_admissions": 524,
+            "daily_deaths": 63
+        },
+        {
+            "date": "2020-10-05",
+            "daily_cases": 10685,
+            "daily_admissions": 472,
+            "daily_deaths": 19
+        },
+        {
+            "date": "2020-10-04",
+            "daily_cases": 21309,
+            "daily_admissions": 478,
+            "daily_deaths": 32
+        },
+        {
+            "date": "2020-10-03",
+            "daily_cases": 10806,
+            "daily_admissions": 386,
+            "daily_deaths": 39
+        },
+        {
+            "date": "2020-10-02",
+            "daily_cases": 4797,
+            "daily_admissions": 371,
+            "daily_deaths": 58
+        },
+        {
+            "date": "2020-10-01",
+            "daily_cases": 5589,
+            "daily_admissions": 368,
+            "daily_deaths": 48
+        },
+        {
+            "date": "2020-09-30",
+            "daily_cases": 5656,
+            "daily_admissions": 328,
+            "daily_deaths": 62
+        },
+        {
+            "date": "2020-09-29",
+            "daily_cases": 5651,
+            "daily_admissions": 310,
+            "daily_deaths": 68
+        },
+        {
+            "date": "2020-09-28",
+            "daily_cases": 3316,
+            "daily_admissions": 308,
+            "daily_deaths": 13
+        },
+        {
+            "date": "2020-09-27",
+            "daily_cases": 4800,
+            "daily_admissions": 241,
+            "daily_deaths": 16
+        },
+        {
+            "date": "2020-09-26",
+            "daily_cases": 4639,
+            "daily_admissions": 245,
+            "daily_deaths": 30
+        },
+        {
+            "date": "2020-09-25",
+            "daily_cases": 5723,
+            "daily_admissions": 274,
+            "daily_deaths": 31
+        },
+        {
+            "date": "2020-09-24",
+            "daily_cases": 5632,
+            "daily_admissions": 288,
+            "daily_deaths": 37
+        },
+        {
+            "date": "2020-09-23",
+            "daily_cases": 5083,
+            "daily_admissions": 314,
+            "daily_deaths": 33
+        },
+        {
+            "date": "2020-09-22",
+            "daily_cases": 4187,
+            "daily_admissions": 268,
+            "daily_deaths": 36
+        },
+        {
+            "date": "2020-09-21",
+            "daily_cases": 3754,
+            "daily_admissions": 275,
+            "daily_deaths": 9
+        },
+        {
+            "date": "2020-09-20",
+            "daily_cases": 3279,
+            "daily_admissions": 237,
+            "daily_deaths": 18
+        },
+        {
+            "date": "2020-09-19",
+            "daily_cases": 3638,
+            "daily_admissions": 204,
+            "daily_deaths": 22
+        },
+        {
+            "date": "2020-09-18",
+            "daily_cases": 3771,
+            "daily_admissions": 205,
+            "daily_deaths": 23
+        },
+        {
+            "date": "2020-09-17",
+            "daily_cases": 2788,
+            "daily_admissions": 199,
+            "daily_deaths": 18
+        },
+        {
+            "date": "2020-09-16",
+            "daily_cases": 3396,
+            "daily_admissions": 183,
+            "daily_deaths": 17
+        },
+        {
+            "date": "2020-09-15",
+            "daily_cases": 2649,
+            "daily_admissions": 194,
+            "daily_deaths": 25
+        },
+        {
+            "date": "2020-09-14",
+            "daily_cases": 2259,
+            "daily_admissions": 172,
+            "daily_deaths": 7
+        },
+        {
+            "date": "2020-09-13",
+            "daily_cases": 2837,
+            "daily_admissions": 153,
+            "daily_deaths": 5
+        },
+        {
+            "date": "2020-09-12",
+            "daily_cases": 3008,
+            "daily_admissions": 143,
+            "daily_deaths": 9
+        },
+        {
+            "date": "2020-09-11",
+            "daily_cases": 3143,
+            "daily_admissions": 135,
+            "daily_deaths": 6
+        },
+        {
+            "date": "2020-09-10",
+            "daily_cases": 2578,
+            "daily_admissions": 143,
+            "daily_deaths": 13
+        },
+        {
+            "date": "2020-09-09",
+            "daily_cases": 2286,
+            "daily_admissions": 136,
+            "daily_deaths": 8
+        },
+        {
+            "date": "2020-09-08",
+            "daily_cases": 2094,
+            "daily_admissions": 99,
+            "daily_deaths": 27
+        },
+        {
+            "date": "2020-09-07",
+            "daily_cases": 2528,
+            "daily_admissions": 84,
+            "daily_deaths": 2
+        },
+        {
+            "date": "2020-09-06",
+            "daily_cases": 2576,
+            "daily_admissions": 85,
+            "daily_deaths": 2
+        },
+        {
+            "date": "2020-09-05",
+            "daily_cases": 1477,
+            "daily_admissions": 94,
+            "daily_deaths": 11
+        },
+        {
+            "date": "2020-09-04",
+            "daily_cases": 1669,
+            "daily_admissions": 67,
+            "daily_deaths": 9
+        },
+        {
+            "date": "2020-09-03",
+            "daily_cases": 1507,
+            "daily_admissions": 69,
+            "daily_deaths": 11
+        },
+        {
+            "date": "2020-09-02",
+            "daily_cases": 1239,
+            "daily_admissions": 79,
+            "daily_deaths": 7
+        },
+        {
+            "date": "2020-09-01",
+            "daily_cases": 1041,
+            "daily_admissions": 58,
+            "daily_deaths": 2
+        },
+        {
+            "date": "2020-08-31",
+            "daily_cases": 1149,
+            "daily_admissions": 52,
+            "daily_deaths": 2
+        },
+        {
+            "date": "2020-08-30",
+            "daily_cases": 1487,
+            "daily_admissions": 38,
+            "daily_deaths": 1
+        },
+        {
+            "date": "2020-08-29",
+            "daily_cases": 891,
+            "daily_admissions": 52,
+            "daily_deaths": 12
+        },
+        {
+            "date": "2020-08-28",
+            "daily_cases": 1106,
+            "daily_admissions": 44,
+            "daily_deaths": 9
+        },
+        {
+            "date": "2020-08-27",
+            "daily_cases": 1350,
+            "daily_admissions": 69,
+            "daily_deaths": 10
+        },
+        {
+            "date": "2020-08-26",
+            "daily_cases": 875,
+            "daily_admissions": 52,
+            "daily_deaths": 13
+        },
+        {
+            "date": "2020-08-25",
+            "daily_cases": 1065,
+            "daily_admissions": 60,
+            "daily_deaths": 16
+        },
+        {
+            "date": "2020-08-24",
+            "daily_cases": 758,
+            "daily_admissions": 41,
+            "daily_deaths": 3
+        },
+        {
+            "date": "2020-08-23",
+            "daily_cases": 938,
+            "daily_admissions": 44,
+            "daily_deaths": 4
+        },
+        {
+            "date": "2020-08-22",
+            "daily_cases": 1060,
+            "daily_admissions": 25,
+            "daily_deaths": 17
+        },
+        {
+            "date": "2020-08-21",
+            "daily_cases": 908,
+            "daily_admissions": 49,
+            "daily_deaths": 2
+        },
+        {
+            "date": "2020-08-20",
+            "daily_cases": 1035,
+            "daily_admissions": 45,
+            "daily_deaths": 6
+        },
+        {
+            "date": "2020-08-19",
+            "daily_cases": 707,
+            "daily_admissions": 58,
+            "daily_deaths": 15
+        },
+        {
+            "date": "2020-08-18",
+            "daily_cases": 975,
+            "daily_admissions": 56,
+            "daily_deaths": 11
+        },
+        {
+            "date": "2020-08-17",
+            "daily_cases": 634,
+            "daily_admissions": 46,
+            "daily_deaths": 3
+        },
+        {
+            "date": "2020-08-16",
+            "daily_cases": 952,
+            "daily_admissions": 39,
+            "daily_deaths": 3
+        },
+        {
+            "date": "2020-08-15",
+            "daily_cases": 934,
+            "daily_admissions": 38,
+            "daily_deaths": 2
+        },
+        {
+            "date": "2020-08-14",
+            "daily_cases": 1284,
+            "daily_admissions": 55,
+            "daily_deaths": 10
+        },
+        {
+            "date": "2020-08-13",
+            "daily_cases": 1059,
+            "daily_admissions": 60,
+            "daily_deaths": 18
+        },
+        {
+            "date": "2020-08-12",
+            "daily_cases": 925,
+            "daily_admissions": 51,
+            "daily_deaths": 15
+        },
+        {
+            "date": "2020-08-11",
+            "daily_cases": 1035,
+            "daily_admissions": 63,
+            "daily_deaths": 11
+        },
+        {
+            "date": "2020-08-10",
+            "daily_cases": 699,
+            "daily_admissions": 50,
+            "daily_deaths": 17
+        },
+        {
+            "date": "2020-08-09",
+            "daily_cases": 988,
+            "daily_admissions": 53,
+            "daily_deaths": 5
+        },
+        {
+            "date": "2020-08-08",
+            "daily_cases": 679,
+            "daily_admissions": 78,
+            "daily_deaths": 2
+        },
+        {
+            "date": "2020-08-07",
+            "daily_cases": 796,
+            "daily_admissions": 60,
+            "daily_deaths": 5
+        },
+        {
+            "date": "2020-08-06",
+            "daily_cases": 826,
+            "daily_admissions": 52,
+            "daily_deaths": 15
+        },
+        {
+            "date": "2020-08-05",
+            "daily_cases": 804,
+            "daily_admissions": 60,
+            "daily_deaths": 12
+        },
+        {
+            "date": "2020-08-04",
+            "daily_cases": 617,
+            "daily_admissions": 58,
+            "daily_deaths": 17
+        },
+        {
+            "date": "2020-08-03",
+            "daily_cases": 856,
+            "daily_admissions": 74,
+            "daily_deaths": 1
+        },
+        {
+            "date": "2020-08-02",
+            "daily_cases": 676,
+            "daily_admissions": 57,
+            "daily_deaths": 2
+        },
+        {
+            "date": "2020-08-01",
+            "daily_cases": 722,
+            "daily_admissions": 50,
+            "daily_deaths": 11
+        },
+        {
+            "date": "2020-07-31",
+            "daily_cases": 814,
+            "daily_admissions": 55,
+            "daily_deaths": 14
+        },
+        {
+            "date": "2020-07-30",
+            "daily_cases": 812,
+            "daily_admissions": 75,
+            "daily_deaths": 0
+        },
+        {
+            "date": "2020-07-29",
+            "daily_cases": 700,
+            "daily_admissions": 63,
+            "daily_deaths": 29
+        },
+        {
+            "date": "2020-07-28",
+            "daily_cases": 547,
+            "daily_admissions": 69,
+            "daily_deaths": 21
+        },
+        {
+            "date": "2020-07-27",
+            "daily_cases": 616,
+            "daily_admissions": 82,
+            "daily_deaths": 3
+        },
+        {
+            "date": "2020-07-26",
+            "daily_cases": 721,
+            "daily_admissions": 64,
+            "daily_deaths": 7
+        },
+        {
+            "date": "2020-07-25",
+            "daily_cases": 710,
+            "daily_admissions": 65,
+            "daily_deaths": 15
+        },
+        {
+            "date": "2020-07-24",
+            "daily_cases": 688,
+            "daily_admissions": 93,
+            "daily_deaths": 32
+        },
+        {
+            "date": "2020-07-23",
+            "daily_cases": 702,
+            "daily_admissions": 109,
+            "daily_deaths": 9
+        },
+        {
+            "date": "2020-07-22",
+            "daily_cases": 519,
+            "daily_admissions": 82,
+            "daily_deaths": 16
+        },
+        {
+            "date": "2020-07-21",
+            "daily_cases": 399,
+            "daily_admissions": 79,
+            "daily_deaths": 25
+        },
+        {
+            "date": "2020-07-20",
+            "daily_cases": 535,
+            "daily_admissions": 86,
+            "daily_deaths": 10
+        },
+        {
+            "date": "2020-07-19",
+            "daily_cases": 672,
+            "daily_admissions": 72,
+            "daily_deaths": 10
+        },
+        {
+            "date": "2020-07-18",
+            "daily_cases": 796,
+            "daily_admissions": 48,
+            "daily_deaths": 9
+        },
+        {
+            "date": "2020-07-17",
+            "daily_cases": 635,
+            "daily_admissions": 83,
+            "daily_deaths": 25
+        },
+        {
+            "date": "2020-07-16",
+            "daily_cases": 597,
+            "daily_admissions": 114,
+            "daily_deaths": 23
+        },
+        {
+            "date": "2020-07-15",
+            "daily_cases": 506,
+            "daily_admissions": 116,
+            "daily_deaths": 24
+        },
+        {
+            "date": "2020-07-14",
+            "daily_cases": 372,
+            "daily_admissions": 122,
+            "daily_deaths": 42
+        },
+        {
+            "date": "2020-07-13",
+            "daily_cases": 497,
+            "daily_admissions": 137,
+            "daily_deaths": 8
+        },
+        {
+            "date": "2020-07-12",
+            "daily_cases": 615,
+            "daily_admissions": 72,
+            "daily_deaths": 9
+        },
+        {
+            "date": "2020-07-11",
+            "daily_cases": 806,
+            "daily_admissions": 97,
+            "daily_deaths": 16
+        },
+        {
+            "date": "2020-07-10",
+            "daily_cases": 480,
+            "daily_admissions": 104,
+            "daily_deaths": 34
+        },
+        {
+            "date": "2020-07-09",
+            "daily_cases": 617,
+            "daily_admissions": 136,
+            "daily_deaths": 29
+        },
+        {
+            "date": "2020-07-08",
+            "daily_cases": 606,
+            "daily_admissions": 141,
+            "daily_deaths": 52
+        },
+        {
+            "date": "2020-07-07",
+            "daily_cases": 572,
+            "daily_admissions": 148,
+            "daily_deaths": 50
+        },
+        {
+            "date": "2020-07-06",
+            "daily_cases": 331,
+            "daily_admissions": 150,
+            "daily_deaths": 11
+        },
+        {
+            "date": "2020-07-05",
+            "daily_cases": 492,
+            "daily_admissions": 131,
+            "daily_deaths": 18
+        },
+        {
+            "date": "2020-07-04",
+            "daily_cases": 579,
+            "daily_admissions": 120,
+            "daily_deaths": 27
+        },
+        {
+            "date": "2020-07-03",
+            "daily_cases": 502,
+            "daily_admissions": 146,
+            "daily_deaths": 45
+        },
+        {
+            "date": "2020-07-02",
+            "daily_cases": 523,
+            "daily_admissions": 149,
+            "daily_deaths": 31
+        },
+        {
+            "date": "2020-07-01",
+            "daily_cases": 177,
+            "daily_admissions": 201,
+            "daily_deaths": 90
+        },
+        {
+            "date": "2020-06-30",
+            "daily_cases": 196,
+            "daily_admissions": 189,
+            "daily_deaths": 47
+        },
+        {
+            "date": "2020-06-29",
+            "daily_cases": 99,
+            "daily_admissions": 172,
+            "daily_deaths": 17
+        },
+        {
+            "date": "2020-06-28",
+            "daily_cases": 142,
+            "daily_admissions": 155,
+            "daily_deaths": 28
+        },
+        {
+            "date": "2020-06-27",
+            "daily_cases": 192,
+            "daily_admissions": 209,
+            "daily_deaths": 34
+        },
+        {
+            "date": "2020-06-26",
+            "daily_cases": 175,
+            "daily_admissions": 248,
+            "daily_deaths": 76
+        },
+        {
+            "date": "2020-06-25",
+            "daily_cases": 261,
+            "daily_admissions": 256,
+            "daily_deaths": 91
+        },
+        {
+            "date": "2020-06-24",
+            "daily_cases": 107,
+            "daily_admissions": 262,
+            "daily_deaths": 74
+        },
+        {
+            "date": "2020-06-23",
+            "daily_cases": 210,
+            "daily_admissions": 275,
+            "daily_deaths": 84
+        },
+        {
+            "date": "2020-06-22",
+            "daily_cases": 178,
+            "daily_admissions": 318,
+            "daily_deaths": 13
+        },
+        {
+            "date": "2020-06-21",
+            "daily_cases": 215,
+            "daily_admissions": 215,
+            "daily_deaths": 30
+        },
+        {
+            "date": "2020-06-20",
+            "daily_cases": 324,
+            "daily_admissions": 184,
+            "daily_deaths": 67
+        },
+        {
+            "date": "2020-06-19",
+            "daily_cases": 323,
+            "daily_admissions": 253,
+            "daily_deaths": 73
+        },
+        {
+            "date": "2020-06-18",
+            "daily_cases": 281,
+            "daily_admissions": 312,
+            "daily_deaths": 60
+        },
+        {
+            "date": "2020-06-17",
+            "daily_cases": 252,
+            "daily_admissions": 334,
+            "daily_deaths": 90
+        },
+        {
+            "date": "2020-06-16",
+            "daily_cases": 252,
+            "daily_admissions": 354,
+            "daily_deaths": 106
+        },
+        {
+            "date": "2020-06-15",
+            "daily_cases": 219,
+            "daily_admissions": 365,
+            "daily_deaths": 25
+        },
+        {
+            "date": "2020-06-14",
+            "daily_cases": 292,
+            "daily_admissions": 306,
+            "daily_deaths": 23
+        },
+        {
+            "date": "2020-06-13",
+            "daily_cases": 372,
+            "daily_admissions": 265,
+            "daily_deaths": 94
+        },
+        {
+            "date": "2020-06-12",
+            "daily_cases": 392,
+            "daily_admissions": 298,
+            "daily_deaths": 117
+        },
+        {
+            "date": "2020-06-11",
+            "daily_cases": 304,
+            "daily_admissions": 330,
+            "daily_deaths": 64
+        },
+        {
+            "date": "2020-06-10",
+            "daily_cases": 63,
+            "daily_admissions": 402,
+            "daily_deaths": 143
+        },
+        {
+            "date": "2020-06-09",
+            "daily_cases": 651,
+            "daily_admissions": 397,
+            "daily_deaths": 179
+        },
+        {
+            "date": "2020-06-08",
+            "daily_cases": 92,
+            "daily_admissions": 348,
+            "daily_deaths": 44
+        },
+        {
+            "date": "2020-06-07",
+            "daily_cases": 228,
+            "daily_admissions": 323,
+            "daily_deaths": 49
+        },
+        {
+            "date": "2020-06-06",
+            "daily_cases": 422,
+            "daily_admissions": 306,
+            "daily_deaths": 126
+        },
+        {
+            "date": "2020-06-05",
+            "daily_cases": 451,
+            "daily_admissions": 380,
+            "daily_deaths": 239
+        },
+        {
+            "date": "2020-06-04",
+            "daily_cases": 431,
+            "daily_admissions": 458,
+            "daily_deaths": 112
+        },
+        {
+            "date": "2020-06-03",
+            "daily_cases": 462,
+            "daily_admissions": 491,
+            "daily_deaths": 218
+        },
+        {
+            "date": "2020-06-02",
+            "daily_cases": 444,
+            "daily_admissions": 553,
+            "daily_deaths": 228
+        },
+        {
+            "date": "2020-06-01",
+            "daily_cases": 294,
+            "daily_admissions": 522,
+            "daily_deaths": 79
+        },
+        {
+            "date": "2020-05-31",
+            "daily_cases": 320,
+            "daily_admissions": 446,
+            "daily_deaths": 39
+        },
+        {
+            "date": "2020-05-30",
+            "daily_cases": 715,
+            "daily_admissions": 466,
+            "daily_deaths": 117
+        },
+        {
+            "date": "2020-05-29",
+            "daily_cases": 560,
+            "daily_admissions": 499,
+            "daily_deaths": 246
+        },
+        {
+            "date": "2020-05-28",
+            "daily_cases": 519,
+            "daily_admissions": 570,
+            "daily_deaths": 315
+        },
+        {
+            "date": "2020-05-27",
+            "daily_cases": 609,
+            "daily_admissions": 589,
+            "daily_deaths": 396
+        },
+        {
+            "date": "2020-05-26",
+            "daily_cases": 492,
+            "daily_admissions": 578,
+            "daily_deaths": 105
+        },
+        {
+            "date": "2020-05-25",
+            "daily_cases": 494,
+            "daily_admissions": 498,
+            "daily_deaths": 86
+        },
+        {
+            "date": "2020-05-24",
+            "daily_cases": 584,
+            "daily_admissions": 497,
+            "daily_deaths": 362
+        },
+        {
+            "date": "2020-05-23",
+            "daily_cases": 979,
+            "daily_admissions": 504,
+            "daily_deaths": 197
+        },
+        {
+            "date": "2020-05-22",
+            "daily_cases": 1083,
+            "daily_admissions": 638,
+            "daily_deaths": 257
+        },
+        {
+            "date": "2020-05-21",
+            "daily_cases": 854,
+            "daily_admissions": 715,
+            "daily_deaths": 220
+        },
+        {
+            "date": "2020-05-20",
+            "daily_cases": 824,
+            "daily_admissions": 732,
+            "daily_deaths": 259
+        },
+        {
+            "date": "2020-05-19",
+            "daily_cases": 857,
+            "daily_admissions": 752,
+            "daily_deaths": 447
+        },
+        {
+            "date": "2020-05-18",
+            "daily_cases": 816,
+            "daily_admissions": 733,
+            "daily_deaths": 134
+        },
+        {
+            "date": "2020-05-17",
+            "daily_cases": 788,
+            "daily_admissions": 673,
+            "daily_deaths": 43
+        },
+        {
+            "date": "2020-05-16",
+            "daily_cases": 1136,
+            "daily_admissions": 671,
+            "daily_deaths": 348
+        },
+        {
+            "date": "2020-05-15",
+            "daily_cases": 1112,
+            "daily_admissions": 738,
+            "daily_deaths": 280
+        },
+        {
+            "date": "2020-05-14",
+            "daily_cases": 1189,
+            "daily_admissions": 763,
+            "daily_deaths": 303
+        },
+        {
+            "date": "2020-05-13",
+            "daily_cases": 1146,
+            "daily_admissions": 804,
+            "daily_deaths": 362
+        },
+        {
+            "date": "2020-05-12",
+            "daily_cases": 1067,
+            "daily_admissions": 844,
+            "daily_deaths": 539
+        },
+        {
+            "date": "2020-05-11",
+            "daily_cases": 891,
+            "daily_admissions": 866,
+            "daily_deaths": 174
+        },
+        {
+            "date": "2020-05-10",
+            "daily_cases": 1007,
+            "daily_admissions": 756,
+            "daily_deaths": 190
+        },
+        {
+            "date": "2020-05-09",
+            "daily_cases": 1349,
+            "daily_admissions": 798,
+            "daily_deaths": 226
+        },
+        {
+            "date": "2020-05-08",
+            "daily_cases": 1694,
+            "daily_admissions": 743,
+            "daily_deaths": 498
+        },
+        {
+            "date": "2020-05-07",
+            "daily_cases": 2133,
+            "daily_admissions": 998,
+            "daily_deaths": 377
+        },
+        {
+            "date": "2020-05-06",
+            "daily_cases": 1611,
+            "daily_admissions": 1040,
+            "daily_deaths": 529
+        },
+        {
+            "date": "2020-05-05",
+            "daily_cases": 1842,
+            "daily_admissions": 959,
+            "daily_deaths": 639
+        },
+        {
+            "date": "2020-05-04",
+            "daily_cases": 1485,
+            "daily_admissions": 1063,
+            "daily_deaths": 247
+        },
+        {
+            "date": "2020-05-03",
+            "daily_cases": 2019,
+            "daily_admissions": 1044,
+            "daily_deaths": 222
+        },
+        {
+            "date": "2020-05-02",
+            "daily_cases": 2228,
+            "daily_admissions": 980,
+            "daily_deaths": 485
+        },
+        {
+            "date": "2020-05-01",
+            "daily_cases": 2501,
+            "daily_admissions": 1081,
+            "daily_deaths": 623
+        },
+        {
+            "date": "2020-04-30",
+            "daily_cases": 2484,
+            "daily_admissions": 1227,
+            "daily_deaths": 543
+        },
+        {
+            "date": "2020-04-29",
+            "daily_cases": 1403,
+            "daily_admissions": 1295,
+            "daily_deaths": 604
+        },
+        {
+            "date": "2020-04-28",
+            "daily_cases": 1989,
+            "daily_admissions": 1296,
+            "daily_deaths": 862
+        },
+        {
+            "date": "2020-04-27",
+            "daily_cases": 2264,
+            "daily_admissions": 1344,
+            "daily_deaths": 289
+        },
+        {
+            "date": "2020-04-26",
+            "daily_cases": 2152,
+            "daily_admissions": 1208,
+            "daily_deaths": 327
+        },
+        {
+            "date": "2020-04-25",
+            "daily_cases": 2826,
+            "daily_admissions": 1080,
+            "daily_deaths": 729
+        },
+        {
+            "date": "2020-04-24",
+            "daily_cases": 3004,
+            "daily_admissions": 1277,
+            "daily_deaths": 821
+        },
+        {
+            "date": "2020-04-23",
+            "daily_cases": 3084,
+            "daily_admissions": 1289,
+            "daily_deaths": 594
+        },
+        {
+            "date": "2020-04-22",
+            "daily_cases": 3020,
+            "daily_admissions": 1310,
+            "daily_deaths": 725
+        },
+        {
+            "date": "2020-04-21",
+            "daily_cases": 3087,
+            "daily_admissions": 1495,
+            "daily_deaths": 1116
+        },
+        {
+            "date": "2020-04-20",
+            "daily_cases": 2401,
+            "daily_admissions": 1522,
+            "daily_deaths": 536
+        },
+        {
+            "date": "2020-04-19",
+            "daily_cases": 3607,
+            "daily_admissions": 1475,
+            "daily_deaths": 380
+        },
+        {
+            "date": "2020-04-18",
+            "daily_cases": 3548,
+            "daily_admissions": 1411,
+            "daily_deaths": 1004
+        },
+        {
+            "date": "2020-04-17",
+            "daily_cases": 3985,
+            "daily_admissions": 1674,
+            "daily_deaths": 826
+        },
+        {
+            "date": "2020-04-16",
+            "daily_cases": 3118,
+            "daily_admissions": 1777,
+            "daily_deaths": 906
+        },
+        {
+            "date": "2020-04-15",
+            "daily_cases": 3188,
+            "daily_admissions": 1608,
+            "daily_deaths": 730
+        },
+        {
+            "date": "2020-04-14",
+            "daily_cases": 3854,
+            "daily_admissions": 1859,
+            "daily_deaths": 1007
+        },
+        {
+            "date": "2020-04-13",
+            "daily_cases": 2999,
+            "daily_admissions": 1912,
+            "daily_deaths": 694
+        },
+        {
+            "date": "2020-04-12",
+            "daily_cases": 3672,
+            "daily_admissions": 1791,
+            "daily_deaths": 604
+        },
+        {
+            "date": "2020-04-11",
+            "daily_cases": 3841,
+            "daily_admissions": 1955,
+            "daily_deaths": 745
+        },
+        {
+            "date": "2020-04-10",
+            "daily_cases": 4263,
+            "daily_admissions": 2196,
+            "daily_deaths": 1035
+        },
+        {
+            "date": "2020-04-09",
+            "daily_cases": 3798,
+            "daily_admissions": 2340,
+            "daily_deaths": 990
+        },
+        {
+            "date": "2020-04-08",
+            "daily_cases": 4788,
+            "daily_admissions": 2619,
+            "daily_deaths": 922
+        },
+        {
+            "date": "2020-04-07",
+            "daily_cases": 2978,
+            "daily_admissions": 2744,
+            "daily_deaths": 1009
+        },
+        {
+            "date": "2020-04-06",
+            "daily_cases": 3176,
+            "daily_admissions": 2679,
+            "daily_deaths": 531
+        },
+        {
+            "date": "2020-04-05",
+            "daily_cases": 5107,
+            "daily_admissions": 2592,
+            "daily_deaths": 578
+        },
+        {
+            "date": "2020-04-04",
+            "daily_cases": 2910,
+            "daily_admissions": 2593,
+            "daily_deaths": 689
+        },
+        {
+            "date": "2020-04-03",
+            "daily_cases": 3576,
+            "daily_admissions": 2564,
+            "daily_deaths": 654
+        },
+        {
+            "date": "2020-04-02",
+            "daily_cases": 3583,
+            "daily_admissions": 2932,
+            "daily_deaths": 603
+        },
+        {
+            "date": "2020-04-01",
+            "daily_cases": 3630,
+            "daily_admissions": 3099,
+            "daily_deaths": 613
+        },
+        {
+            "date": "2020-03-31",
+            "daily_cases": 2414,
+            "daily_admissions": 2447,
+            "daily_deaths": 368
+        },
+        {
+            "date": "2020-03-30",
+            "daily_cases": 2107,
+            "daily_admissions": 2817,
+            "daily_deaths": 353
+        },
+        {
+            "date": "2020-03-29",
+            "daily_cases": 2060,
+            "daily_admissions": 2186,
+            "daily_deaths": 195
+        },
+        {
+            "date": "2020-03-28",
+            "daily_cases": 2139,
+            "daily_admissions": 1873,
+            "daily_deaths": 279
+        },
+        {
+            "date": "2020-03-27",
+            "daily_cases": 2506,
+            "daily_admissions": 1931,
+            "daily_deaths": 271
+        },
+        {
+            "date": "2020-03-26",
+            "daily_cases": 1809,
+            "daily_admissions": 1639,
+            "daily_deaths": 169
+        },
+        {
+            "date": "2020-03-25",
+            "daily_cases": 1130,
+            "daily_admissions": 1755,
+            "daily_deaths": 178
+        },
+        {
+            "date": "2020-03-24",
+            "daily_cases": 1258,
+            "daily_admissions": 1544,
+            "daily_deaths": 143
+        },
+        {
+            "date": "2020-03-23",
+            "daily_cases": 793,
+            "daily_admissions": 1128,
+            "daily_deaths": 67
+        },
+        {
+            "date": "2020-03-22",
+            "daily_cases": 535,
+            "daily_admissions": 859,
+            "daily_deaths": 24
+        },
+        {
+            "date": "2020-03-21",
+            "daily_cases": 873,
+            "daily_admissions": 777,
+            "daily_deaths": 54
+        },
+        {
+            "date": "2020-03-20",
+            "daily_cases": 628,
+            "daily_admissions": 691,
+            "daily_deaths": 32
+        },
+        {
+            "date": "2020-03-19",
+            "daily_cases": 574,
+            "daily_admissions": 586,
+            "daily_deaths": 42
+        },
+        {
+            "date": "2020-03-18",
+            "daily_cases": 625,
+            "daily_admissions": null,
+            "daily_deaths": 33
+        },
+        {
+            "date": "2020-03-17",
+            "daily_cases": 361,
+            "daily_admissions": null,
+            "daily_deaths": 15
+        },
+        {
+            "date": "2020-03-16",
+            "daily_cases": 97,
+            "daily_admissions": null,
+            "daily_deaths": 22
+        },
+        {
+            "date": "2020-03-15",
+            "daily_cases": 253,
+            "daily_admissions": null,
+            "daily_deaths": 14
+        },
+        {
+            "date": "2020-03-14",
+            "daily_cases": 201,
+            "daily_admissions": null,
+            "daily_deaths": 18
+        },
+        {
+            "date": "2020-03-13",
+            "daily_cases": 159,
+            "daily_admissions": null,
+            "daily_deaths": 1
+        },
+        {
+            "date": "2020-03-12",
+            "daily_cases": 99,
+            "daily_admissions": null,
+            "daily_deaths": 2
+        },
+        {
+            "date": "2020-03-11",
+            "daily_cases": 63,
+            "daily_admissions": null,
+            "daily_deaths": 0
+        },
+        {
+            "date": "2020-03-10",
+            "daily_cases": 46,
+            "daily_admissions": null,
+            "daily_deaths": 4
+        },
+        {
+            "date": "2020-03-09",
+            "daily_cases": 40,
+            "daily_admissions": null,
+            "daily_deaths": 1
+        },
+        {
+            "date": "2020-03-08",
+            "daily_cases": 58,
+            "daily_admissions": null,
+            "daily_deaths": 0
+        },
+        {
+            "date": "2020-03-07",
+            "daily_cases": 39,
+            "daily_admissions": null,
+            "daily_deaths": 1
+        },
+        {
+            "date": "2020-03-06",
+            "daily_cases": 39,
+            "daily_admissions": null,
+            "daily_deaths": 1
+        },
+        {
+            "date": "2020-03-05",
+            "daily_cases": 25,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-03-04",
+            "daily_cases": 32,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-03-03",
+            "daily_cases": 11,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-03-02",
+            "daily_cases": 4,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-03-01",
+            "daily_cases": 12,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-29",
+            "daily_cases": 3,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-28",
+            "daily_cases": 5,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-27",
+            "daily_cases": 0,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-26",
+            "daily_cases": 0,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-25",
+            "daily_cases": 0,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-24",
+            "daily_cases": 4,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-23",
+            "daily_cases": 0,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-22",
+            "daily_cases": 0,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-21",
+            "daily_cases": 0,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-20",
+            "daily_cases": 0,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-19",
+            "daily_cases": 0,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-18",
+            "daily_cases": 0,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-17",
+            "daily_cases": 0,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-16",
+            "daily_cases": 0,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-15",
+            "daily_cases": 0,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-14",
+            "daily_cases": 0,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-13",
+            "daily_cases": 1,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-12",
+            "daily_cases": 0,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-11",
+            "daily_cases": 0,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-10",
+            "daily_cases": 4,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-09",
+            "daily_cases": 1,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-08",
+            "daily_cases": 0,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-07",
+            "daily_cases": 0,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-06",
+            "daily_cases": 1,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-05",
+            "daily_cases": 0,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-04",
+            "daily_cases": 0,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-03",
+            "daily_cases": 0,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-02",
+            "daily_cases": 0,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-02-01",
+            "daily_cases": 0,
+            "daily_admissions": null,
+            "daily_deaths": null
+        },
+        {
+            "date": "2020-01-31",
+            "daily_cases": 2,
+            "daily_admissions": null,
+            "daily_deaths": null
+        }
+    ],
+    "lastUpdate": "2021-11-29T16:00:12.000000Z",
+    "length": 669,
+    "totalPages": 1
+}
